@@ -12,3 +12,4 @@ handwriting_preparation/characters/
 chi_sim.traineddata
 osd.traineddata
 experiments_finetune/
+.vscode/

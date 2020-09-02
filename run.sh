@@ -3,7 +3,7 @@
 ##########################
 
 # Sample draw the fonts and save to paired_images, about 10-20 mins
-PYTHONPATH=. python font2img.py
+/usr/local/opt/python@3.7/bin/python3.7 font2img.py
 
 
 ##########################
@@ -11,7 +11,7 @@ PYTHONPATH=. python font2img.py
 ##########################
 
 # Train the model
-PYTHONPATH=. python train.py --experiment_dir=experiments \
+/usr/local/opt/python@3.7/bin/python3.7 train.py --experiment_dir=experiments \
                 --experiment_id=0 \
                 --batch_size=64 \
                 --lr=0.001 \
@@ -22,7 +22,7 @@ PYTHONPATH=. python train.py --experiment_dir=experiments \
                 --Lconst_penalty=15
 
 # Infer
-PYTHONPATH=. python infer.py --model_dir=experiments/checkpoint/experiment_0_batch_32 \
+/usr/local/opt/python@3.7/bin/python3.7 infer.py --model_dir=experiments/checkpoint/experiment_0_batch_32 \
                 --batch_size=32 \
                 --source_obj=experiments/data/val.obj \
                 --embedding_ids=0 \
@@ -33,11 +33,11 @@ PYTHONPATH=. python infer.py --model_dir=experiments/checkpoint/experiment_0_bat
 ##########################
 
 # Generate paired images for finetune
-PYTHONPATH=. python font2img_finetune.py
+/usr/local/opt/python@3.7/bin/python3.7 font2img_finetune.py
 
 
 # Train/Finetune the model
-PYTHONPATH=. python train.py --experiment_dir=experiments_finetune \
+/usr/local/opt/python@3.7/bin/python3.7 train.py --experiment_dir=experiments_finetune \
                 --experiment_id=0 \
                 --batch_size=16 \
                 --lr=0.001 \
@@ -51,7 +51,7 @@ PYTHONPATH=. python train.py --experiment_dir=experiments_finetune \
                 --fine_tune=67 \
                 --flip_labels=1
 
-PYTHONPATH=. python infer.py --model_dir=experiments_finetune/checkpoint/experiment_0 \
+/usr/local/opt/python@3.7/bin/python3.7 infer.py --model_dir=experiments_finetune/checkpoint/experiment_0 \
                 --batch_size=32 \
                 --source_obj=experiments_finetune/data/val.obj \
                 --embedding_id=67 \
@@ -59,7 +59,7 @@ PYTHONPATH=. python infer.py --model_dir=experiments_finetune/checkpoint/experim
 
 
 
-PYTHONPATH=. python infer_by_text.py --model_dir=experiments_finetune/checkpoint/experiment_0 \
+/usr/local/opt/python@3.7/bin/python3.7 infer_by_text.py --model_dir=experiments_finetune/checkpoint/experiment_0 \
                 --batch_size=32 \
                 --embedding_id=67 \
                 --save_dir=save_dir/
