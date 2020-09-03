@@ -24,7 +24,7 @@ def pickle_examples(paths, train_path, val_path, train_val_split=0.1):
             for p in paths:
                 label = int(os.path.basename(p).split("_")[0])
                 with open(p, 'rb') as f:
-                    print("img %s" % p, label)
+                    print("pickle_examples: img->path = %s," % p, 'label = ' ,label)
                     img_bytes = f.read()
                     r = random.random()
                     example = (label, img_bytes)
@@ -37,7 +37,9 @@ def pickle_examples(paths, train_path, val_path, train_val_split=0.1):
 def save_train_valid_data(save_dir, sample_dir, split_ratio):
     train_path = os.path.join(save_dir, "train.obj")
     val_path = os.path.join(save_dir, "val.obj")
-    pickle_examples(sorted(glob.glob(os.path.join(sample_dir, "*.jpg"))), train_path=train_path, val_path=val_path,
+    pickle_examples(sorted(glob.glob(os.path.join(sample_dir, "*.jpg"))), 
+                    train_path=train_path, 
+                    val_path=val_path,
                     train_val_split=split_ratio)
 
 

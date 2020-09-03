@@ -92,7 +92,7 @@ parser.add_argument('--charset', type=str, default='CN',
 parser.add_argument('--shuffle', type=int, default=True, help='shuffle a charset before processings')
 parser.add_argument('--char_size', type=int, default=CHAR_SIZE, help='character size')
 parser.add_argument('--canvas_size', type=int, default=CANVAS_SIZE, help='canvas size')
-parser.add_argument('--sample_count', type=int, default=10, help='number of characters to draw')
+parser.add_argument('--sample_count', type=int, default=1000, help='number of characters to draw')
 parser.add_argument('--sample_dir', default='data/paired_images', help='directory to save examples')
 
 # These two are for package.py
@@ -117,9 +117,15 @@ if __name__ == "__main__":
 
                 if args.shuffle:
                     np.random.shuffle(charset)
-                font2img(args.src_font, dst_font, charset, args.char_size,
+                font2img(args.src_font, 
+                         dst_font, 
+                         charset, 
+                         args.char_size,
                          args.canvas_size,
-                         args.sample_count, args.sample_dir, label, args.filter)
+                         args.sample_count, 
+                         args.sample_dir, 
+                         label, 
+                         args.filter)
                 label += 1
     print("Number of fonts:", label)
 

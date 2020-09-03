@@ -16,7 +16,7 @@ EMBEDDING_DIM = 128
 def _draw_single_char(font, ch, width, height):
     img = Image.new("L", (width, height), 255)
     draw = ImageDraw.Draw(img)
-    draw.text((0, 0), ch, fill=0, font=font)
+    draw.text((0, -30), ch, fill=0, font=font)
     return img
 
 
@@ -47,6 +47,7 @@ def draw_single_char(img, canvas_size, char_size):
 
 def draw_single_char_by_font(ch, font, canvas_size, char_size):
     width, height = get_textsize(font, ch)
+    # print(ch, 'font size =', width, height )
     char_img = _draw_single_char(font, ch, width, height)
 
     return draw_single_char(char_img, canvas_size, char_size)
@@ -95,8 +96,8 @@ def draw_example_src_only(ch, src_font, dst_img, canvas_size, char_size):
 
 
 if __name__ == '__main__':
-    src_font = "/Users/chaopan/PycharmProjects/zi2zi/data/raw_fonts/造字工房尚黑纤细超长体.ttf"
+    src_font = "/Users/wei-chilan/Documents/python/zi2zi/data/raw_fonts/NotoSansCJKtc-Regular.otf"
     print(os.path.isfile(src_font))
     src_font = ImageFont.truetype(src_font, size=CHAR_SIZE)
-    src_img = draw_single_char_by_font('普', src_font, CANVAS_SIZE, CHAR_SIZE)
+    src_img = draw_single_char_by_font('我', src_font, CANVAS_SIZE, CHAR_SIZE)
     src_img.show()

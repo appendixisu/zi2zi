@@ -53,32 +53,48 @@ args = parser.parse_args()
 
 
 def main(_):
-    config = tf.ConfigProto()
+    config = tf.compat.v1.ConfigProto()
     config.gpu_options.allow_growth = True
 
-    with tf.Session(config=config) as sess:
-        model = UNet(args.experiment_dir, batch_size=args.batch_size, experiment_id=args.experiment_id,
-                     input_width=args.image_size, output_width=args.image_size, embedding_num=args.embedding_num,
-                     validate_batches=args.validate_batches, embedding_dim=args.embedding_dim,
-                     L1_penalty=args.L1_penalty, Lconst_penalty=args.Lconst_penalty,
-                     Ltv_penalty=args.Ltv_penalty, Lcategory_penalty=args.Lcategory_penalty)
+    with tf.compat.v1.Session(config=config) as sess:
+        model = UNet(args.experiment_dir, 
+                     batch_size=args.batch_size, 
+                     experiment_id=args.experiment_id,
+                     input_width=args.image_size, 
+                     output_width=args.image_size, 
+                     embedding_num=args.embedding_num,
+                     validate_batches=args.validate_batches, 
+                     embedding_dim=args.embedding_dim,
+                     L1_penalty=args.L1_penalty, 
+                     Lconst_penalty=args.Lconst_penalty,
+                     Ltv_penalty=args.Ltv_penalty, 
+                     Lcategory_penalty=args.Lcategory_penalty)
         model.register_session(sess)
         if args.flip_labels:
-            model.build_model(is_training=True, inst_norm=args.inst_norm, no_target_source=True)
+            model.build_model(is_training=True, 
+                              inst_norm=args.inst_norm, 
+                              no_target_source=True)
         else:
-            model.build_model(is_training=True, inst_norm=args.inst_norm)
+            model.build_model(is_training=True, 
+                              inst_norm=args.inst_norm)
         fine_tune_list = None
         if args.fine_tune:
             ids = args.fine_tune.split(",")
             fine_tune_list = set([int(i) for i in ids])
 
-        model.train(lr=args.lr, epoch=args.epoch, resume=args.resume, resume_pre_model=args.resume_pre_model,
-                    schedule=args.schedule, freeze_encoder_decoder=args.freeze_encoder_decoder,
+        model.train(lr=args.lr, 
+                    epoch=args.epoch, 
+                    resume=args.resume, 
+                    resume_pre_model=args.resume_pre_model,
+                    schedule=args.schedule, 
+                    freeze_encoder_decoder=args.freeze_encoder_decoder,
                     fine_tune=fine_tune_list,
-                    sample_steps=args.sample_steps, checkpoint_steps=args.checkpoint_steps,
+                    sample_steps=args.sample_steps, 
+                    checkpoint_steps=args.checkpoint_steps,
                     validate_steps=args.validate_steps,
-                    flip_labels=args.flip_labels, optimizer=args.optimizer)
+                    flip_labels=args.flip_labels, 
+                    optimizer=args.optimizer)
 
 
 if __name__ == '__main__':
-    tf.app.run()
+    tf.compat.v1.app.run()

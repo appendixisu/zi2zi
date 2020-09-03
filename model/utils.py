@@ -7,7 +7,7 @@ from io import BytesIO
 import imageio
 import numpy as np
 import scipy.misc as misc
-
+import PIL
 
 def pad_seq(seq, batch_size):
     # pad the sequence to be the multiples of batch_size
