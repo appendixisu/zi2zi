@@ -1,0 +1,1158 @@
+Epoch: [ 0], [   0/  20] time: 208.2933, d_loss: 41.86499, g_loss: 126.80182, category_loss: 0.00000, cheat_loss: 81.67924, const_loss: 1.06660, l1_loss: 44.05597, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1080.7873, d_loss: 88.17094, g_loss: 47.56749, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.46303, l1_loss: 47.10446, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1974.3009, d_loss: 55.13205, g_loss: 57.10934, category_loss: 0.00000, cheat_loss: 7.61633, const_loss: 0.81874, l1_loss: 48.67427, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2873.7491, d_loss: 52.70568, g_loss: 142.12827, category_loss: 0.00000, cheat_loss: 98.06114, const_loss: 0.66366, l1_loss: 43.40348, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3798.1892, d_loss: 113.27049, g_loss: 161.22618, category_loss: 0.00000, cheat_loss: 94.95943, const_loss: 17.44506, l1_loss: 48.82169, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4719.2683, d_loss: 109.74166, g_loss: 54.79328, category_loss: 0.00000, cheat_loss: 3.67223, const_loss: 0.56309, l1_loss: 50.55796, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5579.7725, d_loss: 56.49531, g_loss: 123.42739, category_loss: 0.00000, cheat_loss: 79.54097, const_loss: 0.72755, l1_loss: 43.15887, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6448.1819, d_loss: 26.62046, g_loss: 47.13205, category_loss: 0.00000, cheat_loss: 6.80883, const_loss: 0.49095, l1_loss: 39.83226, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7323.1242, d_loss: 33.68175, g_loss: 223.61241, category_loss: 0.00000, cheat_loss: 180.50453, const_loss: 0.58556, l1_loss: 42.52233, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8186.3043, d_loss: 118.07001, g_loss: 72.00696, category_loss: 0.00000, cheat_loss: 25.54298, const_loss: 0.83857, l1_loss: 45.62540, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 9062.0717, d_loss: 98.23106, g_loss: 122.36136, category_loss: 0.00000, cheat_loss: 76.04445, const_loss: 1.78720, l1_loss: 44.52971, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9936.6943, d_loss: 75.70065, g_loss: 46.33043, category_loss: 0.00000, cheat_loss: 0.09569, const_loss: 0.81200, l1_loss: 45.42273, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10800.9201, d_loss: 50.91244, g_loss: 118.71709, category_loss: 0.00000, cheat_loss: 73.47456, const_loss: 1.01567, l1_loss: 44.22686, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11667.0476, d_loss: 57.93518, g_loss: 44.44086, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.59220, l1_loss: 43.84866, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12544.5754, d_loss: 68.41183, g_loss: 83.02576, category_loss: 0.00000, cheat_loss: 40.48796, const_loss: 0.60067, l1_loss: 41.93713, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13384.0994, d_loss: 54.64804, g_loss: 45.30850, category_loss: 0.00000, cheat_loss: 1.26767, const_loss: 1.08028, l1_loss: 42.96054, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14248.3672, d_loss: 31.10983, g_loss: 63.75072, category_loss: 0.00000, cheat_loss: 21.09090, const_loss: 0.60661, l1_loss: 42.05322, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15116.4237, d_loss: 22.27685, g_loss: 39.43263, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.24325, l1_loss: 39.18938, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15993.7279, d_loss: 65.96092, g_loss: 83.81342, category_loss: 0.00000, cheat_loss: 44.91045, const_loss: 0.27545, l1_loss: 38.62751, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16762.9165, d_loss: 42.89130, g_loss: 37.54442, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.36666, l1_loss: 37.17776, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 217.4720, d_loss: 47.10149, g_loss: 91.37869, category_loss: 0.00000, cheat_loss: 56.29180, const_loss: 0.43787, l1_loss: 34.64903, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1033.5111, d_loss: 37.55182, g_loss: 36.86503, category_loss: 0.00000, cheat_loss: 0.67688, const_loss: 0.49979, l1_loss: 35.68836, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1891.7043, d_loss: 23.93423, g_loss: 103.49970, category_loss: 0.00000, cheat_loss: 68.71379, const_loss: 0.71238, l1_loss: 34.07354, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2765.0314, d_loss: 32.71441, g_loss: 38.05175, category_loss: 0.00000, cheat_loss: 2.09373, const_loss: 0.52796, l1_loss: 35.43006, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3652.7951, d_loss: 23.47034, g_loss: 108.28144, category_loss: 0.00000, cheat_loss: 70.54015, const_loss: 0.59968, l1_loss: 37.14161, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4539.5675, d_loss: 29.35244, g_loss: 37.15160, category_loss: 0.00000, cheat_loss: 1.83847, const_loss: 0.34200, l1_loss: 34.97112, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5425.8828, d_loss: 31.29898, g_loss: 92.25639, category_loss: 0.00000, cheat_loss: 53.15341, const_loss: 2.06716, l1_loss: 37.03582, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6276.8703, d_loss: 44.59386, g_loss: 40.78022, category_loss: 0.00000, cheat_loss: 0.34127, const_loss: 0.59956, l1_loss: 39.83938, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7143.3037, d_loss: 43.96758, g_loss: 106.84477, category_loss: 0.00000, cheat_loss: 65.78031, const_loss: 0.49178, l1_loss: 40.57268, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7990.6271, d_loss: 46.53418, g_loss: 43.39240, category_loss: 0.00000, cheat_loss: 0.70298, const_loss: 0.60611, l1_loss: 42.08331, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8829.8169, d_loss: 24.27308, g_loss: 87.28409, category_loss: 0.00000, cheat_loss: 43.65824, const_loss: 0.60294, l1_loss: 43.02292, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9676.1237, d_loss: 41.22562, g_loss: 62.93401, category_loss: 0.00000, cheat_loss: 12.93267, const_loss: 1.40641, l1_loss: 48.59493, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10537.7123, d_loss: 35.24419, g_loss: 57.52585, category_loss: 0.00000, cheat_loss: 5.97455, const_loss: 2.12774, l1_loss: 49.42356, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11458.2987, d_loss: 22.61519, g_loss: 49.03245, category_loss: 0.00000, cheat_loss: 4.10151, const_loss: 0.48340, l1_loss: 44.44754, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12399.8280, d_loss: 32.04289, g_loss: 46.13299, category_loss: 0.00000, cheat_loss: 2.03872, const_loss: 0.48241, l1_loss: 43.61186, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13298.5807, d_loss: 21.38678, g_loss: 44.26729, category_loss: 0.00000, cheat_loss: 0.26183, const_loss: 0.33639, l1_loss: 43.66908, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14164.9836, d_loss: 12.10869, g_loss: 133.20187, category_loss: 0.00000, cheat_loss: 89.83673, const_loss: 0.35968, l1_loss: 43.00546, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15036.4678, d_loss: 68.00649, g_loss: 44.10501, category_loss: 0.00000, cheat_loss: 0.09671, const_loss: 0.70260, l1_loss: 43.30570, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15925.2181, d_loss: 24.77142, g_loss: 111.78107, category_loss: 0.00000, cheat_loss: 70.53539, const_loss: 0.43632, l1_loss: 40.80935, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16684.6854, d_loss: 35.54043, g_loss: 41.17963, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.46171, l1_loss: 40.71792, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 248.0763, d_loss: 51.19064, g_loss: 55.09055, category_loss: 0.00000, cheat_loss: 11.03150, const_loss: 0.62090, l1_loss: 43.43815, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1129.5257, d_loss: 43.91093, g_loss: 114.85825, category_loss: 0.00000, cheat_loss: 67.93543, const_loss: 0.97978, l1_loss: 45.94304, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1962.7515, d_loss: 75.28478, g_loss: 46.47994, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.26561, l1_loss: 46.21433, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2803.8658, d_loss: 55.92367, g_loss: 83.14970, category_loss: 0.00000, cheat_loss: 42.16569, const_loss: 0.39911, l1_loss: 40.58489, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3642.2891, d_loss: 29.31531, g_loss: 40.71786, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.24231, l1_loss: 40.47555, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4487.2657, d_loss: 39.02512, g_loss: 82.46626, category_loss: 0.00000, cheat_loss: 40.37261, const_loss: 0.46765, l1_loss: 41.62600, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5331.4303, d_loss: 28.02962, g_loss: 46.33398, category_loss: 0.00000, cheat_loss: 0.41914, const_loss: 3.12804, l1_loss: 42.78680, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6169.9617, d_loss: 31.67667, g_loss: 91.48650, category_loss: 0.00000, cheat_loss: 51.95063, const_loss: 0.47727, l1_loss: 39.05861, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7009.0580, d_loss: 59.59237, g_loss: 39.92876, category_loss: 0.00000, cheat_loss: 0.03725, const_loss: 0.78825, l1_loss: 39.10326, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7851.4174, d_loss: 44.58175, g_loss: 76.43422, category_loss: 0.00000, cheat_loss: 38.15546, const_loss: 0.40576, l1_loss: 37.87299, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8701.3728, d_loss: 26.35380, g_loss: 40.62755, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.29610, l1_loss: 40.33145, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9548.7381, d_loss: 40.08360, g_loss: 98.11098, category_loss: 0.00000, cheat_loss: 57.75584, const_loss: 0.47794, l1_loss: 39.87720, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10387.1628, d_loss: 45.43943, g_loss: 41.26398, category_loss: 0.00000, cheat_loss: 0.26433, const_loss: 1.20776, l1_loss: 39.79189, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11233.1520, d_loss: 30.04956, g_loss: 64.68626, category_loss: 0.00000, cheat_loss: 24.22801, const_loss: 0.41687, l1_loss: 40.04137, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12075.5115, d_loss: 39.78971, g_loss: 62.93271, category_loss: 0.00000, cheat_loss: 19.82949, const_loss: 0.75123, l1_loss: 42.35200, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 12919.3850, d_loss: 34.81927, g_loss: 42.59301, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.44908, l1_loss: 42.14392, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13763.7104, d_loss: 52.80711, g_loss: 89.41118, category_loss: 0.00000, cheat_loss: 46.66190, const_loss: 0.34264, l1_loss: 42.40664, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14609.4668, d_loss: 59.61883, g_loss: 46.44638, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.44020, l1_loss: 46.00617, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15455.7541, d_loss: 51.91611, g_loss: 79.16212, category_loss: 0.00000, cheat_loss: 34.07261, const_loss: 0.16665, l1_loss: 44.92286, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16208.2511, d_loss: 41.78288, g_loss: 44.34794, category_loss: 0.00000, cheat_loss: 0.00269, const_loss: 0.18659, l1_loss: 44.15866, tv_loss: 0.00000
+Validating model..
+
+Epoch: [ 0], [   0/  20] time: 196.7763, d_loss: 36.95432, g_loss: 112.33037, category_loss: 0.00000, cheat_loss: 70.13924, const_loss: 0.31589, l1_loss: 41.87524, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1032.1398, d_loss: 61.52226, g_loss: 42.32314, category_loss: 0.00000, cheat_loss: 0.14010, const_loss: 0.44297, l1_loss: 41.74007, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1880.7455, d_loss: 30.50290, g_loss: 86.89400, category_loss: 0.00000, cheat_loss: 45.81630, const_loss: 0.72949, l1_loss: 40.34821, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2734.3639, d_loss: 45.35857, g_loss: 41.46698, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.53833, l1_loss: 40.92866, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3581.3591, d_loss: 49.53174, g_loss: 92.57909, category_loss: 0.00000, cheat_loss: 53.92273, const_loss: 0.22700, l1_loss: 38.42935, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4431.1371, d_loss: 59.78693, g_loss: 38.81166, category_loss: 0.00000, cheat_loss: 0.03812, const_loss: 0.22639, l1_loss: 38.54716, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5275.7103, d_loss: 29.93637, g_loss: 92.50793, category_loss: 0.00000, cheat_loss: 53.68923, const_loss: 0.35539, l1_loss: 38.46331, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6117.0165, d_loss: 52.02212, g_loss: 37.21436, category_loss: 0.00000, cheat_loss: 0.01502, const_loss: 0.14701, l1_loss: 37.05233, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6949.5879, d_loss: 26.55296, g_loss: 91.93809, category_loss: 0.00000, cheat_loss: 55.20663, const_loss: 0.26871, l1_loss: 36.46275, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7794.5785, d_loss: 46.42305, g_loss: 38.00454, category_loss: 0.00000, cheat_loss: 0.35018, const_loss: 0.35636, l1_loss: 37.29800, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8633.6906, d_loss: 22.79754, g_loss: 90.79562, category_loss: 0.00000, cheat_loss: 54.45200, const_loss: 0.47308, l1_loss: 35.87054, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9479.9663, d_loss: 33.87749, g_loss: 37.51535, category_loss: 0.00000, cheat_loss: 0.39461, const_loss: 0.68560, l1_loss: 36.43515, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10357.2467, d_loss: 22.97107, g_loss: 62.34818, category_loss: 0.00000, cheat_loss: 25.56370, const_loss: 0.71493, l1_loss: 36.06955, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11218.2674, d_loss: 21.24011, g_loss: 37.95866, category_loss: 0.00000, cheat_loss: 0.98989, const_loss: 0.34951, l1_loss: 36.61926, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12105.3523, d_loss: 12.71889, g_loss: 88.83146, category_loss: 0.00000, cheat_loss: 51.15295, const_loss: 0.38993, l1_loss: 37.28859, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13040.2477, d_loss: 35.35168, g_loss: 39.34338, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.29296, l1_loss: 39.05042, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13909.6462, d_loss: 44.83987, g_loss: 75.85865, category_loss: 0.00000, cheat_loss: 35.89365, const_loss: 0.30752, l1_loss: 39.65749, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14770.0531, d_loss: 25.15235, g_loss: 41.35099, category_loss: 0.00000, cheat_loss: 0.28510, const_loss: 0.20530, l1_loss: 40.86059, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15632.4953, d_loss: 34.57007, g_loss: 85.25793, category_loss: 0.00000, cheat_loss: 44.99634, const_loss: 0.19999, l1_loss: 40.06160, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16409.2105, d_loss: 42.56325, g_loss: 47.17465, category_loss: 0.00000, cheat_loss: 0.01244, const_loss: 2.07045, l1_loss: 45.09176, tv_loss: 0.00000
+Validating model..
+
+Epoch: [ 0], [   0/  20] time: 211.7758, d_loss: 27.96732, g_loss: 75.69016, category_loss: 0.00000, cheat_loss: 33.64568, const_loss: 0.13670, l1_loss: 41.90779, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1102.1452, d_loss: 31.04825, g_loss: 43.32698, category_loss: 0.00000, cheat_loss: 0.00529, const_loss: 0.36800, l1_loss: 42.95370, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1977.9549, d_loss: 20.94019, g_loss: 82.98553, category_loss: 0.00000, cheat_loss: 42.53607, const_loss: 0.97630, l1_loss: 39.47316, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2867.4748, d_loss: 29.53984, g_loss: 39.75759, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.77225, l1_loss: 38.98534, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3711.6394, d_loss: 42.02596, g_loss: 63.88634, category_loss: 0.00000, cheat_loss: 26.42905, const_loss: 0.84420, l1_loss: 36.61309, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4558.2644, d_loss: 18.19116, g_loss: 37.84922, category_loss: 0.00000, cheat_loss: 0.15657, const_loss: 0.50672, l1_loss: 37.18593, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5406.6292, d_loss: 21.24768, g_loss: 69.66475, category_loss: 0.00000, cheat_loss: 31.00435, const_loss: 0.44669, l1_loss: 38.21370, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6252.0311, d_loss: 33.99212, g_loss: 49.45774, category_loss: 0.00000, cheat_loss: 0.20733, const_loss: 0.66264, l1_loss: 48.58777, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7114.2324, d_loss: 40.50304, g_loss: 76.05647, category_loss: 0.00000, cheat_loss: 29.12976, const_loss: 0.40844, l1_loss: 46.51827, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7979.6591, d_loss: 36.76166, g_loss: 45.41979, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.24854, l1_loss: 45.17125, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8834.3316, d_loss: 54.14841, g_loss: 60.36066, category_loss: 0.00000, cheat_loss: 21.24908, const_loss: 0.21260, l1_loss: 38.89899, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9703.2795, d_loss: 12.04178, g_loss: 38.10496, category_loss: 0.00000, cheat_loss: 0.66082, const_loss: 0.33402, l1_loss: 37.11012, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10578.8443, d_loss: 12.67828, g_loss: 104.66054, category_loss: 0.00000, cheat_loss: 67.67676, const_loss: 1.26606, l1_loss: 35.71771, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11444.8502, d_loss: 45.72740, g_loss: 51.67997, category_loss: 0.00000, cheat_loss: 0.29913, const_loss: 13.56824, l1_loss: 37.81260, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12322.6709, d_loss: 26.88512, g_loss: 88.73946, category_loss: 0.00000, cheat_loss: 51.07292, const_loss: 0.89389, l1_loss: 36.77265, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13191.2291, d_loss: 28.22012, g_loss: 39.50256, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.89746, l1_loss: 38.60510, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14054.1931, d_loss: 67.28640, g_loss: 69.77647, category_loss: 0.00000, cheat_loss: 31.54497, const_loss: 0.28839, l1_loss: 37.94311, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14919.9201, d_loss: 18.35166, g_loss: 41.13545, category_loss: 0.00000, cheat_loss: 0.53111, const_loss: 0.35302, l1_loss: 40.25132, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15796.8800, d_loss: 27.71452, g_loss: 98.64744, category_loss: 0.00000, cheat_loss: 56.44160, const_loss: 0.30413, l1_loss: 41.90171, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16581.0904, d_loss: 48.89285, g_loss: 42.85117, category_loss: 0.00000, cheat_loss: 1.46160, const_loss: 0.39605, l1_loss: 40.99352, tv_loss: 0.00000
+Validating model..
+
+Epoch: [ 0], [   0/  20] time: 215.1974, d_loss: 22.18079, g_loss: 93.46859, category_loss: 0.00000, cheat_loss: 52.49016, const_loss: 0.50330, l1_loss: 40.47512, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1082.2181, d_loss: 35.41891, g_loss: 40.96083, category_loss: 0.00000, cheat_loss: 0.41190, const_loss: 1.31059, l1_loss: 39.23833, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1958.7282, d_loss: 18.86238, g_loss: 75.07362, category_loss: 0.00000, cheat_loss: 35.78730, const_loss: 0.63232, l1_loss: 38.65399, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2831.9328, d_loss: 18.99261, g_loss: 38.62779, category_loss: 0.00000, cheat_loss: 0.08999, const_loss: 0.84299, l1_loss: 37.69481, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3719.8654, d_loss: 24.07303, g_loss: 88.85883, category_loss: 0.00000, cheat_loss: 50.72406, const_loss: 0.76543, l1_loss: 37.36934, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4576.1834, d_loss: 28.75377, g_loss: 38.60407, category_loss: 0.00000, cheat_loss: 0.07958, const_loss: 0.83872, l1_loss: 37.68577, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5449.8667, d_loss: 30.78104, g_loss: 57.18611, category_loss: 0.00000, cheat_loss: 16.64821, const_loss: 1.23148, l1_loss: 39.30642, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6300.3309, d_loss: 38.32669, g_loss: 53.93034, category_loss: 0.00000, cheat_loss: 8.37007, const_loss: 1.64937, l1_loss: 43.91090, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7155.6145, d_loss: 45.00343, g_loss: 65.16313, category_loss: 0.00000, cheat_loss: 16.43965, const_loss: 2.38714, l1_loss: 46.33635, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7998.4321, d_loss: 20.76247, g_loss: 42.69490, category_loss: 0.00000, cheat_loss: 0.29320, const_loss: 0.79779, l1_loss: 41.60390, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8850.0108, d_loss: 27.31971, g_loss: 82.43445, category_loss: 0.00000, cheat_loss: 43.97067, const_loss: 1.03447, l1_loss: 37.42931, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9702.1363, d_loss: 20.76327, g_loss: 39.39654, category_loss: 0.00000, cheat_loss: 1.18306, const_loss: 1.14678, l1_loss: 37.06671, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10545.6678, d_loss: 30.79165, g_loss: 78.82667, category_loss: 0.00000, cheat_loss: 39.35929, const_loss: 0.93298, l1_loss: 38.53440, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11361.3811, d_loss: 44.27029, g_loss: 38.50442, category_loss: 0.00000, cheat_loss: 0.48757, const_loss: 0.68357, l1_loss: 37.33328, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12202.4308, d_loss: 39.08618, g_loss: 55.20988, category_loss: 0.00000, cheat_loss: 17.49716, const_loss: 0.90666, l1_loss: 36.80607, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13038.5437, d_loss: 11.89631, g_loss: 43.35999, category_loss: 0.00000, cheat_loss: 5.02971, const_loss: 0.55750, l1_loss: 37.77277, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13886.3125, d_loss: 8.20748, g_loss: 53.57475, category_loss: 0.00000, cheat_loss: 14.55056, const_loss: 0.50870, l1_loss: 38.51548, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14737.7999, d_loss: 6.59840, g_loss: 50.14649, category_loss: 0.00000, cheat_loss: 3.63783, const_loss: 0.72545, l1_loss: 45.78321, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15580.9981, d_loss: 25.07886, g_loss: 56.85599, category_loss: 0.00000, cheat_loss: 9.10566, const_loss: 0.48921, l1_loss: 47.26112, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16336.6453, d_loss: 20.49215, g_loss: 46.20707, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.54398, l1_loss: 45.66309, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 199.6543, d_loss: 34.69659, g_loss: 88.26399, category_loss: 0.00000, cheat_loss: 44.12991, const_loss: 0.43380, l1_loss: 43.70028, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1005.6715, d_loss: 28.35921, g_loss: 44.57777, category_loss: 0.00000, cheat_loss: 0.07563, const_loss: 0.26754, l1_loss: 44.23459, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1820.1743, d_loss: 34.87423, g_loss: 67.52412, category_loss: 0.00000, cheat_loss: 23.98359, const_loss: 0.56725, l1_loss: 42.97327, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2634.3832, d_loss: 28.54468, g_loss: 46.24863, category_loss: 0.00000, cheat_loss: 0.18508, const_loss: 0.82112, l1_loss: 45.24242, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3468.6200, d_loss: 25.69740, g_loss: 69.56443, category_loss: 0.00000, cheat_loss: 25.57884, const_loss: 0.51803, l1_loss: 43.46756, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4283.7518, d_loss: 33.65996, g_loss: 43.53923, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.30896, l1_loss: 43.23028, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5110.3786, d_loss: 51.62285, g_loss: 58.28260, category_loss: 0.00000, cheat_loss: 16.32360, const_loss: 0.33541, l1_loss: 41.62358, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 5927.7356, d_loss: 16.35553, g_loss: 41.94591, category_loss: 0.00000, cheat_loss: 0.09254, const_loss: 0.28366, l1_loss: 41.56970, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6757.0352, d_loss: 14.02874, g_loss: 90.65492, category_loss: 0.00000, cheat_loss: 50.14851, const_loss: 0.20267, l1_loss: 40.30375, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7590.1547, d_loss: 40.84312, g_loss: 39.86227, category_loss: 0.00000, cheat_loss: 0.81336, const_loss: 0.53307, l1_loss: 38.51584, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8406.4873, d_loss: 16.34180, g_loss: 63.46859, category_loss: 0.00000, cheat_loss: 24.38667, const_loss: 0.35328, l1_loss: 38.72864, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9206.7607, d_loss: 12.08368, g_loss: 42.59146, category_loss: 0.00000, cheat_loss: 2.57921, const_loss: 0.40757, l1_loss: 39.60468, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10045.5872, d_loss: 12.02521, g_loss: 69.93992, category_loss: 0.00000, cheat_loss: 32.36375, const_loss: 0.73264, l1_loss: 36.84352, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 10860.4945, d_loss: 21.60877, g_loss: 38.23557, category_loss: 0.00000, cheat_loss: 0.00098, const_loss: 0.76019, l1_loss: 37.47440, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 11698.7884, d_loss: 28.55417, g_loss: 55.38536, category_loss: 0.00000, cheat_loss: 19.16059, const_loss: 0.41759, l1_loss: 35.80718, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 12541.3558, d_loss: 11.81188, g_loss: 38.03112, category_loss: 0.00000, cheat_loss: 1.72530, const_loss: 0.55579, l1_loss: 35.75003, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13399.0980, d_loss: 14.71207, g_loss: 70.72595, category_loss: 0.00000, cheat_loss: 33.24241, const_loss: 0.68431, l1_loss: 36.79923, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14291.9585, d_loss: 28.50971, g_loss: 39.38134, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.40248, l1_loss: 38.97886, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15171.4811, d_loss: 32.59753, g_loss: 70.83970, category_loss: 0.00000, cheat_loss: 32.15549, const_loss: 0.33677, l1_loss: 38.34744, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 15963.2930, d_loss: 28.74233, g_loss: 39.38423, category_loss: 0.00000, cheat_loss: 0.00010, const_loss: 0.27923, l1_loss: 39.10489, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+restored model experiments/checkpoint/experiment_1
+Epoch: [ 0], [   0/  20] time: 207.0567, d_loss: 29.48008, g_loss: 87.50180, category_loss: 0.00000, cheat_loss: 48.95126, const_loss: 0.25358, l1_loss: 38.29696, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1072.2178, d_loss: 25.63389, g_loss: 43.26605, category_loss: 0.00000, cheat_loss: 2.58162, const_loss: 0.77589, l1_loss: 39.90854, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1938.9801, d_loss: 22.64952, g_loss: 58.09800, category_loss: 0.00000, cheat_loss: 18.40346, const_loss: 0.61974, l1_loss: 39.07481, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2794.2027, d_loss: 25.44184, g_loss: 57.79239, category_loss: 0.00000, cheat_loss: 16.59565, const_loss: 0.46076, l1_loss: 40.73597, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3634.1485, d_loss: 23.38572, g_loss: 40.91502, category_loss: 0.00000, cheat_loss: 0.06609, const_loss: 0.28418, l1_loss: 40.56475, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4470.1296, d_loss: 19.29875, g_loss: 83.42799, category_loss: 0.00000, cheat_loss: 43.60350, const_loss: 0.36265, l1_loss: 39.46184, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5324.1297, d_loss: 22.19723, g_loss: 45.01761, category_loss: 0.00000, cheat_loss: 3.40353, const_loss: 0.55835, l1_loss: 41.05573, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6160.0720, d_loss: 17.13533, g_loss: 67.63435, category_loss: 0.00000, cheat_loss: 24.79386, const_loss: 0.28786, l1_loss: 42.55262, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7016.8318, d_loss: 13.23834, g_loss: 51.36228, category_loss: 0.00000, cheat_loss: 7.41345, const_loss: 0.32318, l1_loss: 43.62565, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7872.7165, d_loss: 15.63315, g_loss: 52.08879, category_loss: 0.00000, cheat_loss: 10.07580, const_loss: 0.41357, l1_loss: 41.59941, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8724.5826, d_loss: 20.39410, g_loss: 74.15164, category_loss: 0.00000, cheat_loss: 28.53448, const_loss: 0.48842, l1_loss: 45.12875, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9555.4437, d_loss: 29.20244, g_loss: 48.62389, category_loss: 0.00000, cheat_loss: 1.38668, const_loss: 0.31676, l1_loss: 46.92044, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10412.3649, d_loss: 21.11661, g_loss: 66.28252, category_loss: 0.00000, cheat_loss: 23.32248, const_loss: 0.23819, l1_loss: 42.72186, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11283.1784, d_loss: 27.88638, g_loss: 65.58834, category_loss: 0.00000, cheat_loss: 22.76878, const_loss: 0.22354, l1_loss: 42.59603, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12143.5658, d_loss: 29.90355, g_loss: 39.65886, category_loss: 0.00000, cheat_loss: 0.10014, const_loss: 0.37213, l1_loss: 39.18659, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13004.1175, d_loss: 21.97762, g_loss: 91.41739, category_loss: 0.00000, cheat_loss: 54.09381, const_loss: 0.19782, l1_loss: 37.12576, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13862.8547, d_loss: 32.81784, g_loss: 38.84587, category_loss: 0.00000, cheat_loss: 1.31691, const_loss: 0.38664, l1_loss: 37.14233, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14711.3978, d_loss: 18.25861, g_loss: 70.86452, category_loss: 0.00000, cheat_loss: 33.18971, const_loss: 0.41837, l1_loss: 37.25644, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15541.8981, d_loss: 15.22774, g_loss: 36.94720, category_loss: 0.00000, cheat_loss: 0.07103, const_loss: 0.50572, l1_loss: 36.37046, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16309.6119, d_loss: 23.93577, g_loss: 106.11581, category_loss: 0.00000, cheat_loss: 67.98923, const_loss: 0.61353, l1_loss: 37.51305, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 205.3475, d_loss: 21.10092, g_loss: 51.35646, category_loss: 0.00000, cheat_loss: 9.83530, const_loss: 0.64118, l1_loss: 40.87998, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1066.8004, d_loss: 3.33611, g_loss: 57.29100, category_loss: 0.00000, cheat_loss: 15.88181, const_loss: 0.47382, l1_loss: 40.93536, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1910.4946, d_loss: 2.43160, g_loss: 72.49635, category_loss: 0.00000, cheat_loss: 28.70964, const_loss: 0.77394, l1_loss: 43.01276, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2780.1999, d_loss: 2.31438, g_loss: 57.31942, category_loss: 0.00000, cheat_loss: 14.86257, const_loss: 0.73910, l1_loss: 41.71774, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3644.5271, d_loss: 2.11594, g_loss: 56.57810, category_loss: 0.00000, cheat_loss: 12.94621, const_loss: 0.45974, l1_loss: 43.17215, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4496.7635, d_loss: 2.34857, g_loss: 55.47841, category_loss: 0.00000, cheat_loss: 11.90945, const_loss: 2.85796, l1_loss: 40.71100, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5349.6893, d_loss: 4.07676, g_loss: 73.98838, category_loss: 0.00000, cheat_loss: 29.19613, const_loss: 0.46663, l1_loss: 44.32562, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6201.9641, d_loss: 22.47803, g_loss: 39.23886, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.85371, l1_loss: 38.38515, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7076.7956, d_loss: 25.84512, g_loss: 59.28865, category_loss: 0.00000, cheat_loss: 18.47857, const_loss: 1.14971, l1_loss: 39.66038, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7946.8595, d_loss: 27.49025, g_loss: 101.41790, category_loss: 0.00000, cheat_loss: 55.78013, const_loss: 0.92712, l1_loss: 44.71065, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8811.1582, d_loss: 50.51792, g_loss: 48.50571, category_loss: 0.00000, cheat_loss: 0.19425, const_loss: 0.72720, l1_loss: 47.58426, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9650.9196, d_loss: 25.55613, g_loss: 52.36794, category_loss: 0.00000, cheat_loss: 6.21130, const_loss: 0.63654, l1_loss: 45.52010, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10508.6816, d_loss: 28.20683, g_loss: 58.16223, category_loss: 0.00000, cheat_loss: 13.12388, const_loss: 0.70115, l1_loss: 44.33720, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11363.6489, d_loss: 39.18985, g_loss: 51.33843, category_loss: 0.00000, cheat_loss: 2.62824, const_loss: 0.33936, l1_loss: 48.37082, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12225.9126, d_loss: 45.86242, g_loss: 63.35075, category_loss: 0.00000, cheat_loss: 17.80065, const_loss: 0.27256, l1_loss: 45.27753, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13096.4411, d_loss: 33.08210, g_loss: 40.31954, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.43966, l1_loss: 39.87988, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13928.9832, d_loss: 31.82601, g_loss: 63.77677, category_loss: 0.00000, cheat_loss: 23.78638, const_loss: 0.61963, l1_loss: 39.37077, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14754.1094, d_loss: 13.09731, g_loss: 45.59699, category_loss: 0.00000, cheat_loss: 4.34594, const_loss: 0.33812, l1_loss: 40.91293, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15586.5310, d_loss: 11.70132, g_loss: 58.53195, category_loss: 0.00000, cheat_loss: 14.86846, const_loss: 0.29845, l1_loss: 43.36504, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16319.8481, d_loss: 31.24807, g_loss: 47.93927, category_loss: 0.00000, cheat_loss: 2.12164, const_loss: 0.50124, l1_loss: 45.31639, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   0/  20] time: 198.2043, d_loss: 20.32063, g_loss: 44.71908, category_loss: 0.00000, cheat_loss: 0.12101, const_loss: 0.40324, l1_loss: 44.19482, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1072.3887, d_loss: 9.76766, g_loss: 99.50874, category_loss: 0.00000, cheat_loss: 56.66929, const_loss: 0.26534, l1_loss: 42.57412, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1903.6936, d_loss: 31.30512, g_loss: 41.42872, category_loss: 0.00000, cheat_loss: 0.08821, const_loss: 0.43483, l1_loss: 40.90568, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2745.4674, d_loss: 28.51060, g_loss: 67.42379, category_loss: 0.00000, cheat_loss: 27.21942, const_loss: 0.58244, l1_loss: 39.62194, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3580.3321, d_loss: 16.40042, g_loss: 40.23991, category_loss: 0.00000, cheat_loss: 1.54763, const_loss: 0.88418, l1_loss: 37.80810, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4424.3504, d_loss: 16.45129, g_loss: 67.87365, category_loss: 0.00000, cheat_loss: 29.18559, const_loss: 0.75596, l1_loss: 37.93209, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5256.7435, d_loss: 21.39876, g_loss: 38.84321, category_loss: 0.00000, cheat_loss: 0.48717, const_loss: 0.31791, l1_loss: 38.03814, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6094.7018, d_loss: 21.11042, g_loss: 53.99855, category_loss: 0.00000, cheat_loss: 16.15224, const_loss: 0.46094, l1_loss: 37.38537, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6936.4654, d_loss: 14.46042, g_loss: 48.66003, category_loss: 0.00000, cheat_loss: 9.34085, const_loss: 0.26328, l1_loss: 39.05590, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7755.5810, d_loss: 14.63038, g_loss: 66.79671, category_loss: 0.00000, cheat_loss: 25.85353, const_loss: 0.58834, l1_loss: 40.35484, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8602.7506, d_loss: 23.12376, g_loss: 42.15396, category_loss: 0.00000, cheat_loss: 0.00011, const_loss: 0.33965, l1_loss: 41.81420, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9416.7163, d_loss: 38.26233, g_loss: 57.76144, category_loss: 0.00000, cheat_loss: 16.88956, const_loss: 0.21876, l1_loss: 40.65313, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10242.3184, d_loss: 24.60427, g_loss: 77.82609, category_loss: 0.00000, cheat_loss: 30.68158, const_loss: 0.59171, l1_loss: 46.55280, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11067.5644, d_loss: 48.07774, g_loss: 43.19797, category_loss: 0.00000, cheat_loss: 0.00320, const_loss: 0.34929, l1_loss: 42.84548, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 11904.2189, d_loss: 34.22945, g_loss: 66.93365, category_loss: 0.00000, cheat_loss: 23.57514, const_loss: 0.43441, l1_loss: 42.92411, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 12734.1996, d_loss: 23.58791, g_loss: 40.52021, category_loss: 0.00000, cheat_loss: 0.00020, const_loss: 0.47473, l1_loss: 40.04528, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13573.3825, d_loss: 24.79664, g_loss: 61.29998, category_loss: 0.00000, cheat_loss: 22.23301, const_loss: 0.61300, l1_loss: 38.45397, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14410.5258, d_loss: 12.70154, g_loss: 38.24937, category_loss: 0.00000, cheat_loss: 1.32516, const_loss: 0.55582, l1_loss: 36.36838, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15251.5363, d_loss: 11.57256, g_loss: 59.11055, category_loss: 0.00000, cheat_loss: 21.73571, const_loss: 0.84508, l1_loss: 36.52977, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 15997.0682, d_loss: 15.77679, g_loss: 39.30745, category_loss: 0.00000, cheat_loss: 0.00127, const_loss: 0.53508, l1_loss: 38.77109, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 199.9714, d_loss: 17.26712, g_loss: 65.18530, category_loss: 0.00000, cheat_loss: 28.41489, const_loss: 0.54946, l1_loss: 36.22097, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1025.4118, d_loss: 14.68775, g_loss: 38.07655, category_loss: 0.00000, cheat_loss: 0.31270, const_loss: 0.23808, l1_loss: 37.52577, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1857.9085, d_loss: 21.31561, g_loss: 71.13345, category_loss: 0.00000, cheat_loss: 32.61285, const_loss: 0.22992, l1_loss: 38.29069, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2686.7402, d_loss: 12.56917, g_loss: 38.43781, category_loss: 0.00000, cheat_loss: 0.23034, const_loss: 0.38764, l1_loss: 37.81983, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3533.1696, d_loss: 20.23121, g_loss: 71.63623, category_loss: 0.00000, cheat_loss: 32.91338, const_loss: 0.49202, l1_loss: 38.23083, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4355.7931, d_loss: 20.72329, g_loss: 39.01785, category_loss: 0.00000, cheat_loss: 0.93972, const_loss: 0.94672, l1_loss: 37.13140, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5213.4496, d_loss: 23.00050, g_loss: 67.66400, category_loss: 0.00000, cheat_loss: 29.24882, const_loss: 0.89262, l1_loss: 37.52255, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6064.7488, d_loss: 22.14513, g_loss: 40.08749, category_loss: 0.00000, cheat_loss: 0.00001, const_loss: 0.27490, l1_loss: 39.81260, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6913.9331, d_loss: 32.33522, g_loss: 76.19374, category_loss: 0.00000, cheat_loss: 34.75889, const_loss: 0.52097, l1_loss: 40.91388, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7755.6145, d_loss: 26.31896, g_loss: 47.29742, category_loss: 0.00000, cheat_loss: 1.70941, const_loss: 0.55147, l1_loss: 45.03654, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8596.5888, d_loss: 30.17939, g_loss: 41.70796, category_loss: 0.00000, cheat_loss: 1.08426, const_loss: 0.26335, l1_loss: 40.36035, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9445.0244, d_loss: 17.51038, g_loss: 68.23429, category_loss: 0.00000, cheat_loss: 27.25296, const_loss: 0.43360, l1_loss: 40.54773, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10296.4808, d_loss: 28.69074, g_loss: 43.94238, category_loss: 0.00000, cheat_loss: 0.00029, const_loss: 0.25107, l1_loss: 43.69102, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11142.1949, d_loss: 23.05258, g_loss: 79.45838, category_loss: 0.00000, cheat_loss: 37.29923, const_loss: 0.50758, l1_loss: 41.65158, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12015.3168, d_loss: 30.30768, g_loss: 43.06813, category_loss: 0.00000, cheat_loss: 0.13616, const_loss: 1.50912, l1_loss: 41.42285, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 12882.4498, d_loss: 30.10075, g_loss: 65.39507, category_loss: 0.00000, cheat_loss: 23.46201, const_loss: 0.88973, l1_loss: 41.04333, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13742.4581, d_loss: 23.91806, g_loss: 43.83861, category_loss: 0.00000, cheat_loss: 1.85106, const_loss: 0.45647, l1_loss: 41.53107, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14591.4013, d_loss: 18.72584, g_loss: 58.10480, category_loss: 0.00000, cheat_loss: 15.35764, const_loss: 0.36218, l1_loss: 42.38498, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15456.4485, d_loss: 13.23478, g_loss: 50.94508, category_loss: 0.00000, cheat_loss: 9.12289, const_loss: 0.23765, l1_loss: 41.58455, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16216.2988, d_loss: 12.10408, g_loss: 44.96440, category_loss: 0.00000, cheat_loss: 2.97790, const_loss: 0.54044, l1_loss: 41.44607, tv_loss: 0.00000
+Validating model..
+
+Epoch: [ 0], [   0/  20] time: 226.0798, d_loss: 17.04763, g_loss: 79.50460, category_loss: 0.00000, cheat_loss: 37.10373, const_loss: 0.40337, l1_loss: 41.99750, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1070.0107, d_loss: 28.62517, g_loss: 40.82790, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.37067, l1_loss: 40.45723, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1917.1806, d_loss: 47.84969, g_loss: 60.13417, category_loss: 0.00000, cheat_loss: 19.29437, const_loss: 0.55802, l1_loss: 40.28179, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2766.7738, d_loss: 13.48972, g_loss: 51.59864, category_loss: 0.00000, cheat_loss: 9.28519, const_loss: 0.64358, l1_loss: 41.66986, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3627.1011, d_loss: 21.09056, g_loss: 43.84592, category_loss: 0.00000, cheat_loss: 0.29628, const_loss: 0.43363, l1_loss: 43.11601, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4481.5824, d_loss: 12.10288, g_loss: 81.20642, category_loss: 0.00000, cheat_loss: 36.61668, const_loss: 0.55565, l1_loss: 44.03410, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5318.9688, d_loss: 30.56343, g_loss: 42.54232, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.30828, l1_loss: 42.23404, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6173.7569, d_loss: 41.23375, g_loss: 90.91699, category_loss: 0.00000, cheat_loss: 48.42585, const_loss: 0.57215, l1_loss: 41.91899, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7036.5459, d_loss: 17.21300, g_loss: 40.12612, category_loss: 0.00000, cheat_loss: 0.50673, const_loss: 0.27763, l1_loss: 39.34176, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7894.9563, d_loss: 36.44712, g_loss: 70.78887, category_loss: 0.00000, cheat_loss: 32.44547, const_loss: 0.54030, l1_loss: 37.80309, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8753.8851, d_loss: 30.95260, g_loss: 41.04420, category_loss: 0.00000, cheat_loss: 0.21334, const_loss: 0.48450, l1_loss: 40.34637, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9614.6158, d_loss: 21.87377, g_loss: 80.30927, category_loss: 0.00000, cheat_loss: 37.78447, const_loss: 0.43426, l1_loss: 42.09054, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10470.4596, d_loss: 28.32496, g_loss: 39.99303, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.33981, l1_loss: 39.65322, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11328.1088, d_loss: 27.54711, g_loss: 73.86548, category_loss: 0.00000, cheat_loss: 35.28701, const_loss: 0.38946, l1_loss: 38.18900, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12182.1969, d_loss: 23.29922, g_loss: 42.15154, category_loss: 0.00000, cheat_loss: 0.29418, const_loss: 3.30392, l1_loss: 38.55344, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13034.4114, d_loss: 20.55737, g_loss: 73.97113, category_loss: 0.00000, cheat_loss: 33.68135, const_loss: 1.27312, l1_loss: 39.01666, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13895.4647, d_loss: 15.85331, g_loss: 40.40301, category_loss: 0.00000, cheat_loss: 0.91137, const_loss: 0.42882, l1_loss: 39.06281, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14759.9554, d_loss: 16.51674, g_loss: 79.13121, category_loss: 0.00000, cheat_loss: 37.95237, const_loss: 0.77939, l1_loss: 40.39945, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15618.4680, d_loss: 20.46048, g_loss: 45.14935, category_loss: 0.00000, cheat_loss: 0.00330, const_loss: 5.32701, l1_loss: 39.81903, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16377.7428, d_loss: 22.37579, g_loss: 59.08230, category_loss: 0.00000, cheat_loss: 17.25997, const_loss: 1.36596, l1_loss: 40.45637, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 213.0776, d_loss: 31.03605, g_loss: 68.89952, category_loss: 0.00000, cheat_loss: 21.68841, const_loss: 1.43103, l1_loss: 45.78009, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1113.1878, d_loss: 45.37614, g_loss: 48.88440, category_loss: 0.00000, cheat_loss: 1.39735, const_loss: 1.04896, l1_loss: 46.43809, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1974.5939, d_loss: 23.39924, g_loss: 45.88066, category_loss: 0.00000, cheat_loss: 1.83596, const_loss: 0.54756, l1_loss: 43.49715, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2812.9758, d_loss: 11.35721, g_loss: 86.13242, category_loss: 0.00000, cheat_loss: 40.35630, const_loss: 0.83756, l1_loss: 44.93856, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3623.0741, d_loss: 33.96201, g_loss: 46.13543, category_loss: 0.00000, cheat_loss: 0.16983, const_loss: 0.63527, l1_loss: 45.33033, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4448.2054, d_loss: 20.71978, g_loss: 86.11163, category_loss: 0.00000, cheat_loss: 43.31963, const_loss: 0.42175, l1_loss: 42.37025, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5282.6293, d_loss: 29.45116, g_loss: 42.83554, category_loss: 0.00000, cheat_loss: 0.23920, const_loss: 0.18274, l1_loss: 42.41360, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6106.1941, d_loss: 24.10185, g_loss: 65.83089, category_loss: 0.00000, cheat_loss: 23.07334, const_loss: 0.39182, l1_loss: 42.36574, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6933.7945, d_loss: 23.40703, g_loss: 59.15153, category_loss: 0.00000, cheat_loss: 13.34332, const_loss: 1.82408, l1_loss: 43.98414, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7772.3683, d_loss: 28.77200, g_loss: 45.01783, category_loss: 0.00000, cheat_loss: 0.04873, const_loss: 0.90000, l1_loss: 44.06910, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8604.8441, d_loss: 14.33904, g_loss: 86.63096, category_loss: 0.00000, cheat_loss: 44.85888, const_loss: 0.70887, l1_loss: 41.06321, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9439.8259, d_loss: 20.22139, g_loss: 48.54380, category_loss: 0.00000, cheat_loss: 5.10974, const_loss: 0.56511, l1_loss: 42.86895, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10258.0815, d_loss: 16.97354, g_loss: 65.20338, category_loss: 0.00000, cheat_loss: 24.96365, const_loss: 0.59610, l1_loss: 39.64363, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11090.1130, d_loss: 16.59449, g_loss: 45.94580, category_loss: 0.00000, cheat_loss: 3.93127, const_loss: 0.51397, l1_loss: 41.50056, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 11960.2324, d_loss: 10.95181, g_loss: 62.89866, category_loss: 0.00000, cheat_loss: 24.12718, const_loss: 0.61792, l1_loss: 38.15355, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 12829.7859, d_loss: 9.59236, g_loss: 42.05579, category_loss: 0.00000, cheat_loss: 1.95138, const_loss: 0.79803, l1_loss: 39.30637, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13709.8016, d_loss: 13.43797, g_loss: 73.50372, category_loss: 0.00000, cheat_loss: 33.48660, const_loss: 0.61348, l1_loss: 39.40365, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14648.7695, d_loss: 19.44148, g_loss: 39.52374, category_loss: 0.00000, cheat_loss: 0.47754, const_loss: 1.04951, l1_loss: 37.99668, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15520.2747, d_loss: 19.83796, g_loss: 51.17892, category_loss: 0.00000, cheat_loss: 12.51255, const_loss: 0.56295, l1_loss: 38.10342, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16319.6343, d_loss: 25.58522, g_loss: 56.22705, category_loss: 0.00000, cheat_loss: 14.21309, const_loss: 0.35602, l1_loss: 41.65794, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 213.9054, d_loss: 22.89593, g_loss: 50.56570, category_loss: 0.00000, cheat_loss: 7.95917, const_loss: 0.52752, l1_loss: 42.07902, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1059.1797, d_loss: 21.52526, g_loss: 48.57458, category_loss: 0.00000, cheat_loss: 5.46722, const_loss: 0.29846, l1_loss: 42.80890, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 2006.9686, d_loss: 20.42409, g_loss: 54.18479, category_loss: 0.00000, cheat_loss: 11.41598, const_loss: 0.26798, l1_loss: 42.50083, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2951.3139, d_loss: 12.00832, g_loss: 52.52125, category_loss: 0.00000, cheat_loss: 8.11409, const_loss: 0.53231, l1_loss: 43.87484, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3857.4303, d_loss: 15.47199, g_loss: 46.41103, category_loss: 0.00000, cheat_loss: 2.27615, const_loss: 0.54660, l1_loss: 43.58828, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4729.3851, d_loss: 25.73288, g_loss: 57.05746, category_loss: 0.00000, cheat_loss: 13.82622, const_loss: 0.46358, l1_loss: 42.76766, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5688.1641, d_loss: 22.27051, g_loss: 43.40490, category_loss: 0.00000, cheat_loss: 0.00076, const_loss: 0.28515, l1_loss: 43.11898, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6564.5724, d_loss: 24.18993, g_loss: 79.16431, category_loss: 0.00000, cheat_loss: 38.83778, const_loss: 0.40089, l1_loss: 39.92564, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7412.7094, d_loss: 33.89190, g_loss: 42.60050, category_loss: 0.00000, cheat_loss: 0.91402, const_loss: 0.52474, l1_loss: 41.16174, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8259.2561, d_loss: 15.53534, g_loss: 58.92662, category_loss: 0.00000, cheat_loss: 19.17098, const_loss: 0.35572, l1_loss: 39.39993, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 9105.9267, d_loss: 10.98389, g_loss: 38.65023, category_loss: 0.00000, cheat_loss: 0.13768, const_loss: 0.23471, l1_loss: 38.27785, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9947.7284, d_loss: 14.92161, g_loss: 70.02578, category_loss: 0.00000, cheat_loss: 31.72602, const_loss: 0.28347, l1_loss: 38.01629, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10876.0914, d_loss: 14.53491, g_loss: 38.95611, category_loss: 0.00000, cheat_loss: 0.80115, const_loss: 0.20451, l1_loss: 37.95045, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11739.7959, d_loss: 11.98381, g_loss: 69.00130, category_loss: 0.00000, cheat_loss: 30.27499, const_loss: 0.19604, l1_loss: 38.53027, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12698.6202, d_loss: 17.97288, g_loss: 39.83043, category_loss: 0.00000, cheat_loss: 0.31418, const_loss: 0.17973, l1_loss: 39.33651, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13535.5518, d_loss: 21.41415, g_loss: 65.82412, category_loss: 0.00000, cheat_loss: 28.61770, const_loss: 0.16133, l1_loss: 37.04509, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14367.2085, d_loss: 15.91044, g_loss: 43.07157, category_loss: 0.00000, cheat_loss: 0.38059, const_loss: 0.64167, l1_loss: 42.04931, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15202.6377, d_loss: 29.85591, g_loss: 70.53539, category_loss: 0.00000, cheat_loss: 27.83950, const_loss: 0.31125, l1_loss: 42.38463, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 16032.8799, d_loss: 31.70014, g_loss: 42.73037, category_loss: 0.00000, cheat_loss: 0.33238, const_loss: 0.18353, l1_loss: 42.21447, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16775.2276, d_loss: 15.58602, g_loss: 85.44715, category_loss: 0.00000, cheat_loss: 41.57533, const_loss: 0.26427, l1_loss: 43.60755, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 229.0050, d_loss: 25.25982, g_loss: 43.70230, category_loss: 0.00000, cheat_loss: 0.64708, const_loss: 0.36176, l1_loss: 42.69346, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1113.4620, d_loss: 19.54871, g_loss: 71.43815, category_loss: 0.00000, cheat_loss: 28.42924, const_loss: 0.33086, l1_loss: 42.67805, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1965.3762, d_loss: 17.69118, g_loss: 46.10287, category_loss: 0.00000, cheat_loss: 2.25929, const_loss: 0.32253, l1_loss: 43.52105, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2924.1398, d_loss: 13.69280, g_loss: 67.17361, category_loss: 0.00000, cheat_loss: 24.08859, const_loss: 0.32157, l1_loss: 42.76345, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3819.4393, d_loss: 16.90625, g_loss: 40.56833, category_loss: 0.00000, cheat_loss: 0.47239, const_loss: 0.43195, l1_loss: 39.66399, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4693.4789, d_loss: 12.52567, g_loss: 68.40133, category_loss: 0.00000, cheat_loss: 29.10958, const_loss: 0.83661, l1_loss: 38.45513, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5572.0235, d_loss: 15.19899, g_loss: 41.42446, category_loss: 0.00000, cheat_loss: 2.04627, const_loss: 0.58929, l1_loss: 38.78890, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6425.5332, d_loss: 8.03139, g_loss: 65.31071, category_loss: 0.00000, cheat_loss: 27.97209, const_loss: 0.30975, l1_loss: 37.02886, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7296.1187, d_loss: 10.86819, g_loss: 40.31070, category_loss: 0.00000, cheat_loss: 1.66719, const_loss: 0.47576, l1_loss: 38.16775, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8140.5092, d_loss: 10.27624, g_loss: 68.30183, category_loss: 0.00000, cheat_loss: 28.43814, const_loss: 0.31363, l1_loss: 39.55006, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8982.6097, d_loss: 17.03399, g_loss: 52.24482, category_loss: 0.00000, cheat_loss: 6.23385, const_loss: 0.49103, l1_loss: 45.51994, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9821.4595, d_loss: 23.95015, g_loss: 49.91122, category_loss: 0.00000, cheat_loss: 5.80934, const_loss: 0.31872, l1_loss: 43.78316, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10649.8237, d_loss: 19.51161, g_loss: 49.90138, category_loss: 0.00000, cheat_loss: 9.29012, const_loss: 0.29969, l1_loss: 40.31158, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11486.0912, d_loss: 13.56429, g_loss: 46.72644, category_loss: 0.00000, cheat_loss: 4.58088, const_loss: 0.51185, l1_loss: 41.63370, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12314.2229, d_loss: 19.29825, g_loss: 46.72839, category_loss: 0.00000, cheat_loss: 5.71777, const_loss: 0.73319, l1_loss: 40.27744, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13142.1287, d_loss: 9.86532, g_loss: 53.98909, category_loss: 0.00000, cheat_loss: 10.15266, const_loss: 0.99301, l1_loss: 42.84341, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13965.9633, d_loss: 9.50834, g_loss: 47.61311, category_loss: 0.00000, cheat_loss: 2.24802, const_loss: 0.95842, l1_loss: 44.40667, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14783.9560, d_loss: 13.85088, g_loss: 60.43364, category_loss: 0.00000, cheat_loss: 16.42390, const_loss: 0.99489, l1_loss: 43.01484, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15610.5751, d_loss: 15.43506, g_loss: 41.53036, category_loss: 0.00000, cheat_loss: 0.00074, const_loss: 0.41271, l1_loss: 41.11690, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16350.4542, d_loss: 21.97524, g_loss: 86.33630, category_loss: 0.00000, cheat_loss: 45.75752, const_loss: 0.45486, l1_loss: 40.12391, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 206.5370, d_loss: 22.79864, g_loss: 40.72961, category_loss: 0.00000, cheat_loss: 0.96402, const_loss: 0.43088, l1_loss: 39.33471, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1030.3109, d_loss: 14.70443, g_loss: 52.95686, category_loss: 0.00000, cheat_loss: 13.55584, const_loss: 0.42967, l1_loss: 38.97135, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1862.0915, d_loss: 10.05299, g_loss: 48.97849, category_loss: 0.00000, cheat_loss: 9.12480, const_loss: 0.42636, l1_loss: 39.42733, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2694.8040, d_loss: 8.28021, g_loss: 40.40916, category_loss: 0.00000, cheat_loss: 1.58152, const_loss: 0.27975, l1_loss: 38.54789, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3526.4541, d_loss: 7.45752, g_loss: 77.45455, category_loss: 0.00000, cheat_loss: 38.03011, const_loss: 0.30556, l1_loss: 39.11887, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4345.8025, d_loss: 21.47430, g_loss: 42.10957, category_loss: 0.00000, cheat_loss: 0.22829, const_loss: 1.80619, l1_loss: 40.07509, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5183.8024, d_loss: 15.68305, g_loss: 60.04397, category_loss: 0.00000, cheat_loss: 21.42620, const_loss: 0.40772, l1_loss: 38.21004, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6018.5970, d_loss: 5.93800, g_loss: 41.85375, category_loss: 0.00000, cheat_loss: 1.23609, const_loss: 0.20775, l1_loss: 40.40990, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6848.5259, d_loss: 10.13334, g_loss: 75.75859, category_loss: 0.00000, cheat_loss: 33.83709, const_loss: 0.38116, l1_loss: 41.54034, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7681.0044, d_loss: 15.79799, g_loss: 42.24518, category_loss: 0.00000, cheat_loss: 0.63751, const_loss: 0.34335, l1_loss: 41.26432, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8516.0986, d_loss: 10.97628, g_loss: 60.42944, category_loss: 0.00000, cheat_loss: 21.13071, const_loss: 0.28742, l1_loss: 39.01132, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9347.2436, d_loss: 13.31294, g_loss: 42.70335, category_loss: 0.00000, cheat_loss: 0.72773, const_loss: 0.33919, l1_loss: 41.63643, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10184.2343, d_loss: 20.37362, g_loss: 67.60238, category_loss: 0.00000, cheat_loss: 24.18512, const_loss: 0.27661, l1_loss: 43.14065, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11024.7614, d_loss: 24.29721, g_loss: 45.11792, category_loss: 0.00000, cheat_loss: 0.03626, const_loss: 0.46708, l1_loss: 44.61458, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 11860.0515, d_loss: 22.93828, g_loss: 62.13695, category_loss: 0.00000, cheat_loss: 16.89515, const_loss: 0.45669, l1_loss: 44.78511, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 12690.7100, d_loss: 27.82539, g_loss: 49.83874, category_loss: 0.00000, cheat_loss: 1.08107, const_loss: 0.45957, l1_loss: 48.29809, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13527.3968, d_loss: 19.77129, g_loss: 51.71426, category_loss: 0.00000, cheat_loss: 6.52701, const_loss: 0.45687, l1_loss: 44.73038, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14361.0157, d_loss: 14.16623, g_loss: 48.21620, category_loss: 0.00000, cheat_loss: 3.94626, const_loss: 0.36475, l1_loss: 43.90519, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15197.5556, d_loss: 13.73157, g_loss: 64.74915, category_loss: 0.00000, cheat_loss: 21.73683, const_loss: 0.43480, l1_loss: 42.57752, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 15933.3075, d_loss: 23.99213, g_loss: 46.64129, category_loss: 0.00000, cheat_loss: 3.79076, const_loss: 0.22077, l1_loss: 42.62976, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 200.3211, d_loss: 17.16945, g_loss: 41.88817, category_loss: 0.00000, cheat_loss: 1.65193, const_loss: 0.50637, l1_loss: 39.72987, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1029.2464, d_loss: 11.36587, g_loss: 83.13377, category_loss: 0.00000, cheat_loss: 44.31556, const_loss: 0.39097, l1_loss: 38.42723, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1874.1252, d_loss: 25.68053, g_loss: 41.19089, category_loss: 0.00000, cheat_loss: 2.46262, const_loss: 0.34052, l1_loss: 38.38776, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2716.0775, d_loss: 11.86578, g_loss: 66.77425, category_loss: 0.00000, cheat_loss: 25.64010, const_loss: 0.60280, l1_loss: 40.53135, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3567.6697, d_loss: 12.72203, g_loss: 48.87362, category_loss: 0.00000, cheat_loss: 7.77233, const_loss: 0.44681, l1_loss: 40.65448, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4413.8362, d_loss: 15.56504, g_loss: 49.09876, category_loss: 0.00000, cheat_loss: 10.25155, const_loss: 0.64077, l1_loss: 38.20644, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5270.1650, d_loss: 13.04703, g_loss: 47.45007, category_loss: 0.00000, cheat_loss: 8.12677, const_loss: 0.42220, l1_loss: 38.90110, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6123.3415, d_loss: 14.40516, g_loss: 51.61055, category_loss: 0.00000, cheat_loss: 10.09159, const_loss: 0.48881, l1_loss: 41.03016, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6977.9420, d_loss: 12.86562, g_loss: 42.80719, category_loss: 0.00000, cheat_loss: 2.76807, const_loss: 0.16225, l1_loss: 39.87687, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7823.4570, d_loss: 11.39398, g_loss: 73.51475, category_loss: 0.00000, cheat_loss: 30.40074, const_loss: 0.36701, l1_loss: 42.74699, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8665.7179, d_loss: 13.28501, g_loss: 43.91912, category_loss: 0.00000, cheat_loss: 0.58316, const_loss: 0.27148, l1_loss: 43.06448, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9525.1379, d_loss: 14.49011, g_loss: 88.37022, category_loss: 0.00000, cheat_loss: 45.86066, const_loss: 0.23643, l1_loss: 42.27313, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10372.5672, d_loss: 24.17748, g_loss: 44.23236, category_loss: 0.00000, cheat_loss: 1.39389, const_loss: 0.37331, l1_loss: 42.46516, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11229.3562, d_loss: 9.54103, g_loss: 64.41876, category_loss: 0.00000, cheat_loss: 22.63629, const_loss: 0.34029, l1_loss: 41.44218, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12078.6584, d_loss: 7.38362, g_loss: 46.29718, category_loss: 0.00000, cheat_loss: 1.07437, const_loss: 0.96865, l1_loss: 44.25416, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 12922.2703, d_loss: 29.53119, g_loss: 61.75938, category_loss: 0.00000, cheat_loss: 20.19347, const_loss: 0.41676, l1_loss: 41.14916, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13781.9514, d_loss: 25.13754, g_loss: 43.46391, category_loss: 0.00000, cheat_loss: 0.83112, const_loss: 0.41107, l1_loss: 42.22172, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14644.8228, d_loss: 19.18246, g_loss: 50.93422, category_loss: 0.00000, cheat_loss: 10.85832, const_loss: 1.05292, l1_loss: 39.02297, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15500.7149, d_loss: 21.16574, g_loss: 49.95737, category_loss: 0.00000, cheat_loss: 9.82298, const_loss: 0.30548, l1_loss: 39.82890, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16260.2186, d_loss: 26.00460, g_loss: 40.11003, category_loss: 0.00000, cheat_loss: 0.42428, const_loss: 0.16161, l1_loss: 39.52414, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 208.3742, d_loss: 9.94670, g_loss: 78.01675, category_loss: 0.00000, cheat_loss: 36.78222, const_loss: 0.31832, l1_loss: 40.91620, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1039.5229, d_loss: 21.17668, g_loss: 39.54012, category_loss: 0.00000, cheat_loss: 0.19191, const_loss: 0.30978, l1_loss: 39.03843, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1890.8617, d_loss: 32.23280, g_loss: 79.93052, category_loss: 0.00000, cheat_loss: 39.28217, const_loss: 0.32047, l1_loss: 40.32788, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2751.4812, d_loss: 13.32782, g_loss: 44.34746, category_loss: 0.00000, cheat_loss: 3.28420, const_loss: 0.25250, l1_loss: 40.81077, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3637.9380, d_loss: 15.68401, g_loss: 52.48106, category_loss: 0.00000, cheat_loss: 12.25797, const_loss: 0.21222, l1_loss: 40.01088, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4533.9490, d_loss: 17.65119, g_loss: 54.41540, category_loss: 0.00000, cheat_loss: 12.06668, const_loss: 0.39615, l1_loss: 41.95258, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5433.6831, d_loss: 20.47355, g_loss: 51.76965, category_loss: 0.00000, cheat_loss: 7.62111, const_loss: 0.21841, l1_loss: 43.93013, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6321.5245, d_loss: 23.52180, g_loss: 88.49141, category_loss: 0.00000, cheat_loss: 42.73955, const_loss: 0.38944, l1_loss: 45.36242, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7231.4251, d_loss: 26.85090, g_loss: 45.02189, category_loss: 0.00000, cheat_loss: 0.08461, const_loss: 0.36238, l1_loss: 44.57490, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8100.9753, d_loss: 29.62925, g_loss: 47.58156, category_loss: 0.00000, cheat_loss: 8.28094, const_loss: 0.33116, l1_loss: 38.96946, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8990.2197, d_loss: 33.56230, g_loss: 62.17864, category_loss: 0.00000, cheat_loss: 21.45220, const_loss: 0.30740, l1_loss: 40.41904, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9858.6317, d_loss: 30.84209, g_loss: 46.03602, category_loss: 0.00000, cheat_loss: 5.00949, const_loss: 0.47583, l1_loss: 40.55069, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10727.7747, d_loss: 13.47053, g_loss: 52.59848, category_loss: 0.00000, cheat_loss: 10.00471, const_loss: 0.94613, l1_loss: 41.64763, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11605.2642, d_loss: 19.78285, g_loss: 52.68120, category_loss: 0.00000, cheat_loss: 5.33939, const_loss: 1.11909, l1_loss: 46.22273, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12483.4961, d_loss: 33.40753, g_loss: 65.45158, category_loss: 0.00000, cheat_loss: 21.05045, const_loss: 0.42977, l1_loss: 43.97137, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13360.3922, d_loss: 22.33527, g_loss: 39.11529, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 0.21845, l1_loss: 38.89684, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14238.4451, d_loss: 42.75886, g_loss: 62.91978, category_loss: 0.00000, cheat_loss: 27.01735, const_loss: 0.29358, l1_loss: 35.60886, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15117.7558, d_loss: 9.03780, g_loss: 41.74684, category_loss: 0.00000, cheat_loss: 3.08878, const_loss: 0.66149, l1_loss: 37.99657, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15981.2776, d_loss: 12.06601, g_loss: 79.17908, category_loss: 0.00000, cheat_loss: 36.74495, const_loss: 0.56759, l1_loss: 41.86655, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16760.7575, d_loss: 30.34720, g_loss: 45.20544, category_loss: 0.00000, cheat_loss: 0.00000, const_loss: 1.12020, l1_loss: 44.08524, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 217.4741, d_loss: 45.12626, g_loss: 58.70007, category_loss: 0.00000, cheat_loss: 15.66949, const_loss: 0.52697, l1_loss: 42.50362, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1096.7579, d_loss: 15.27327, g_loss: 42.98901, category_loss: 0.00000, cheat_loss: 0.25684, const_loss: 0.38766, l1_loss: 42.34451, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1968.6581, d_loss: 21.53017, g_loss: 85.31089, category_loss: 0.00000, cheat_loss: 44.16120, const_loss: 0.40351, l1_loss: 40.74618, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2828.5659, d_loss: 36.34711, g_loss: 41.40688, category_loss: 0.00000, cheat_loss: 1.12096, const_loss: 0.42114, l1_loss: 39.86477, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3695.9166, d_loss: 13.77187, g_loss: 54.99508, category_loss: 0.00000, cheat_loss: 14.63589, const_loss: 0.37947, l1_loss: 39.97972, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4565.3998, d_loss: 12.65510, g_loss: 39.82953, category_loss: 0.00000, cheat_loss: 0.24847, const_loss: 0.38628, l1_loss: 39.19478, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5445.0920, d_loss: 12.34531, g_loss: 76.24084, category_loss: 0.00000, cheat_loss: 37.81432, const_loss: 0.29263, l1_loss: 38.13389, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6327.6042, d_loss: 23.29082, g_loss: 39.94848, category_loss: 0.00000, cheat_loss: 0.56153, const_loss: 0.28045, l1_loss: 39.10650, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7194.7261, d_loss: 16.13212, g_loss: 58.71318, category_loss: 0.00000, cheat_loss: 19.37287, const_loss: 0.32507, l1_loss: 39.01525, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8068.9350, d_loss: 15.28792, g_loss: 48.27491, category_loss: 0.00000, cheat_loss: 7.18465, const_loss: 0.61290, l1_loss: 40.47736, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8942.6208, d_loss: 14.24524, g_loss: 43.60988, category_loss: 0.00000, cheat_loss: 1.53244, const_loss: 0.20307, l1_loss: 41.87437, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9809.7901, d_loss: 13.91806, g_loss: 92.55502, category_loss: 0.00000, cheat_loss: 47.39841, const_loss: 0.28807, l1_loss: 44.86855, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10683.3003, d_loss: 45.34247, g_loss: 47.62681, category_loss: 0.00000, cheat_loss: 0.28555, const_loss: 0.48719, l1_loss: 46.85406, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11559.4643, d_loss: 32.88377, g_loss: 60.89008, category_loss: 0.00000, cheat_loss: 14.28570, const_loss: 0.32024, l1_loss: 46.28413, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12405.5974, d_loss: 27.13643, g_loss: 48.37283, category_loss: 0.00000, cheat_loss: 2.08527, const_loss: 0.95878, l1_loss: 45.32878, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13282.3882, d_loss: 21.13157, g_loss: 48.93959, category_loss: 0.00000, cheat_loss: 5.05408, const_loss: 0.47817, l1_loss: 43.40734, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14140.5658, d_loss: 15.48035, g_loss: 47.08945, category_loss: 0.00000, cheat_loss: 5.23020, const_loss: 0.42598, l1_loss: 41.43327, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15009.4740, d_loss: 11.19958, g_loss: 40.66907, category_loss: 0.00000, cheat_loss: 0.85647, const_loss: 0.30204, l1_loss: 39.51057, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15883.5029, d_loss: 9.02108, g_loss: 80.23891, category_loss: 0.00000, cheat_loss: 42.35052, const_loss: 0.41280, l1_loss: 37.47560, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16638.4385, d_loss: 37.33791, g_loss: 40.43487, category_loss: 0.00000, cheat_loss: 0.09655, const_loss: 0.34826, l1_loss: 39.99006, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 219.7760, d_loss: 20.01007, g_loss: 63.09688, category_loss: 0.00000, cheat_loss: 24.94667, const_loss: 0.59666, l1_loss: 37.55355, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1101.4651, d_loss: 21.78727, g_loss: 40.43341, category_loss: 0.00000, cheat_loss: 0.24636, const_loss: 0.28449, l1_loss: 39.90256, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1976.2363, d_loss: 16.21991, g_loss: 50.80509, category_loss: 0.00000, cheat_loss: 12.44848, const_loss: 0.34922, l1_loss: 38.00739, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2842.7149, d_loss: 11.60675, g_loss: 58.02321, category_loss: 0.00000, cheat_loss: 16.71181, const_loss: 0.44137, l1_loss: 40.87003, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3711.6293, d_loss: 23.81082, g_loss: 44.96764, category_loss: 0.00000, cheat_loss: 2.49374, const_loss: 0.45437, l1_loss: 42.01953, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4626.7977, d_loss: 14.82578, g_loss: 49.61885, category_loss: 0.00000, cheat_loss: 7.59311, const_loss: 0.33622, l1_loss: 41.68952, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5481.9570, d_loss: 13.38032, g_loss: 43.91561, category_loss: 0.00000, cheat_loss: 1.11886, const_loss: 0.65959, l1_loss: 42.13716, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6440.7119, d_loss: 7.87245, g_loss: 73.67441, category_loss: 0.00000, cheat_loss: 33.12431, const_loss: 0.56349, l1_loss: 39.98660, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7297.8847, d_loss: 21.28005, g_loss: 39.91018, category_loss: 0.00000, cheat_loss: 0.05541, const_loss: 0.31056, l1_loss: 39.54419, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8174.4825, d_loss: 19.91721, g_loss: 52.79416, category_loss: 0.00000, cheat_loss: 14.58064, const_loss: 0.36143, l1_loss: 37.85209, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 9022.5913, d_loss: 11.33560, g_loss: 47.10673, category_loss: 0.00000, cheat_loss: 5.31534, const_loss: 0.73735, l1_loss: 41.05404, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9882.2154, d_loss: 18.59860, g_loss: 51.79462, category_loss: 0.00000, cheat_loss: 8.82328, const_loss: 0.39202, l1_loss: 42.57932, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10752.8561, d_loss: 17.60559, g_loss: 48.75955, category_loss: 0.00000, cheat_loss: 3.89203, const_loss: 0.21837, l1_loss: 44.64915, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11616.6701, d_loss: 11.91085, g_loss: 45.95042, category_loss: 0.00000, cheat_loss: 1.56633, const_loss: 0.23836, l1_loss: 44.14573, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12475.7421, d_loss: 10.34742, g_loss: 74.67380, category_loss: 0.00000, cheat_loss: 32.22263, const_loss: 0.21159, l1_loss: 42.23958, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13355.6615, d_loss: 28.31647, g_loss: 42.37989, category_loss: 0.00000, cheat_loss: 0.17957, const_loss: 0.22408, l1_loss: 41.97624, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14255.0582, d_loss: 17.93999, g_loss: 64.33800, category_loss: 0.00000, cheat_loss: 24.40693, const_loss: 0.18044, l1_loss: 39.75064, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15123.9550, d_loss: 15.08721, g_loss: 40.22096, category_loss: 0.00000, cheat_loss: 0.55780, const_loss: 0.34174, l1_loss: 39.32143, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15998.0935, d_loss: 12.90414, g_loss: 61.64941, category_loss: 0.00000, cheat_loss: 22.31015, const_loss: 0.33707, l1_loss: 39.00219, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16783.6377, d_loss: 18.08794, g_loss: 41.78576, category_loss: 0.00000, cheat_loss: 1.25170, const_loss: 0.32255, l1_loss: 40.21152, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 211.1225, d_loss: 17.19011, g_loss: 43.74059, category_loss: 0.00000, cheat_loss: 4.33765, const_loss: 0.17273, l1_loss: 39.23020, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1051.6732, d_loss: 15.94532, g_loss: 45.36543, category_loss: 0.00000, cheat_loss: 4.29384, const_loss: 0.33503, l1_loss: 40.73657, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1911.2739, d_loss: 11.65208, g_loss: 44.38783, category_loss: 0.00000, cheat_loss: 1.23066, const_loss: 0.29980, l1_loss: 42.85737, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2784.9235, d_loss: 6.06008, g_loss: 64.96583, category_loss: 0.00000, cheat_loss: 24.70997, const_loss: 0.17351, l1_loss: 40.08235, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3649.3278, d_loss: 16.62330, g_loss: 41.04153, category_loss: 0.00000, cheat_loss: 0.00016, const_loss: 0.47304, l1_loss: 40.56833, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4525.4096, d_loss: 26.45885, g_loss: 51.12766, category_loss: 0.00000, cheat_loss: 12.30942, const_loss: 0.27915, l1_loss: 38.53909, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5392.5413, d_loss: 15.01368, g_loss: 56.33675, category_loss: 0.00000, cheat_loss: 15.08881, const_loss: 0.53325, l1_loss: 40.71469, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6262.5353, d_loss: 24.72379, g_loss: 40.05144, category_loss: 0.00000, cheat_loss: 0.22337, const_loss: 0.24751, l1_loss: 39.58055, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7138.1195, d_loss: 14.00063, g_loss: 74.99326, category_loss: 0.00000, cheat_loss: 34.88309, const_loss: 0.43024, l1_loss: 39.67994, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7995.4768, d_loss: 28.23638, g_loss: 39.89428, category_loss: 0.00000, cheat_loss: 0.90242, const_loss: 0.32613, l1_loss: 38.66573, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8853.2030, d_loss: 13.41197, g_loss: 49.13316, category_loss: 0.00000, cheat_loss: 10.78609, const_loss: 0.29668, l1_loss: 38.05038, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9745.6406, d_loss: 10.87817, g_loss: 47.37352, category_loss: 0.00000, cheat_loss: 7.92436, const_loss: 0.31072, l1_loss: 39.13844, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10639.9636, d_loss: 24.15014, g_loss: 53.76208, category_loss: 0.00000, cheat_loss: 10.93781, const_loss: 0.40372, l1_loss: 42.42054, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11522.9868, d_loss: 26.23633, g_loss: 45.22194, category_loss: 0.00000, cheat_loss: 1.12967, const_loss: 0.23420, l1_loss: 43.85807, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12459.4458, d_loss: 19.00718, g_loss: 77.17699, category_loss: 0.00000, cheat_loss: 33.56485, const_loss: 0.45347, l1_loss: 43.15867, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13338.9706, d_loss: 25.09925, g_loss: 42.30347, category_loss: 0.00000, cheat_loss: 0.18268, const_loss: 0.21113, l1_loss: 41.90966, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14242.8477, d_loss: 19.73914, g_loss: 61.31404, category_loss: 0.00000, cheat_loss: 20.96801, const_loss: 0.89081, l1_loss: 39.45522, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15141.2863, d_loss: 19.15551, g_loss: 42.81219, category_loss: 0.00000, cheat_loss: 2.56630, const_loss: 0.40522, l1_loss: 39.84068, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 16010.7603, d_loss: 22.01342, g_loss: 51.41687, category_loss: 0.00000, cheat_loss: 11.76259, const_loss: 0.40169, l1_loss: 39.25259, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16767.9541, d_loss: 20.41963, g_loss: 47.46032, category_loss: 0.00000, cheat_loss: 2.19826, const_loss: 1.89764, l1_loss: 43.36442, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 235.3480, d_loss: 21.74300, g_loss: 53.50945, category_loss: 0.00000, cheat_loss: 11.69040, const_loss: 0.42231, l1_loss: 41.39674, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1122.3288, d_loss: 21.83109, g_loss: 43.57107, category_loss: 0.00000, cheat_loss: 1.71613, const_loss: 0.31427, l1_loss: 41.54067, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 2008.2040, d_loss: 13.18770, g_loss: 56.03548, category_loss: 0.00000, cheat_loss: 13.82389, const_loss: 0.29435, l1_loss: 41.91724, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2883.6156, d_loss: 12.22688, g_loss: 43.53883, category_loss: 0.00000, cheat_loss: 0.15147, const_loss: 0.17479, l1_loss: 43.21257, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3779.4599, d_loss: 20.77555, g_loss: 92.40379, category_loss: 0.00000, cheat_loss: 50.15952, const_loss: 0.35132, l1_loss: 41.89295, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4651.0830, d_loss: 49.44695, g_loss: 44.52643, category_loss: 0.00000, cheat_loss: 1.81779, const_loss: 0.17472, l1_loss: 42.53392, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5513.4766, d_loss: 16.11794, g_loss: 42.03085, category_loss: 0.00000, cheat_loss: 0.01426, const_loss: 0.27866, l1_loss: 41.73793, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6368.4662, d_loss: 20.50025, g_loss: 97.57348, category_loss: 0.00000, cheat_loss: 56.32827, const_loss: 0.14793, l1_loss: 41.09728, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7220.5119, d_loss: 47.83940, g_loss: 46.93999, category_loss: 0.00000, cheat_loss: 5.42411, const_loss: 0.17851, l1_loss: 41.33738, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8070.5921, d_loss: 13.94377, g_loss: 41.57982, category_loss: 0.00000, cheat_loss: 0.00002, const_loss: 0.24990, l1_loss: 41.32990, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8913.3297, d_loss: 23.33587, g_loss: 66.42039, category_loss: 0.00000, cheat_loss: 26.80622, const_loss: 0.30797, l1_loss: 39.30620, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9755.7778, d_loss: 23.45340, g_loss: 40.50460, category_loss: 0.00000, cheat_loss: 0.17153, const_loss: 0.32448, l1_loss: 40.00859, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10601.0648, d_loss: 14.25564, g_loss: 64.02345, category_loss: 0.00000, cheat_loss: 22.31813, const_loss: 0.19074, l1_loss: 41.51459, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11457.9532, d_loss: 15.57984, g_loss: 41.39987, category_loss: 0.00000, cheat_loss: 0.21109, const_loss: 0.33402, l1_loss: 40.85476, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12305.6335, d_loss: 11.32758, g_loss: 59.34145, category_loss: 0.00000, cheat_loss: 19.67540, const_loss: 0.15781, l1_loss: 39.50824, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13156.6479, d_loss: 11.48595, g_loss: 39.65993, category_loss: 0.00000, cheat_loss: 0.11754, const_loss: 0.09561, l1_loss: 39.44678, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14010.6365, d_loss: 16.84259, g_loss: 64.90229, category_loss: 0.00000, cheat_loss: 25.73359, const_loss: 0.21285, l1_loss: 38.95586, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14846.4695, d_loss: 12.79423, g_loss: 39.06092, category_loss: 0.00000, cheat_loss: 0.60967, const_loss: 0.18402, l1_loss: 38.26723, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15717.0446, d_loss: 17.34590, g_loss: 44.33780, category_loss: 0.00000, cheat_loss: 6.97032, const_loss: 0.23210, l1_loss: 37.13537, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16478.3735, d_loss: 11.61579, g_loss: 39.81205, category_loss: 0.00000, cheat_loss: 0.66019, const_loss: 0.15274, l1_loss: 38.99913, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 207.6910, d_loss: 12.34983, g_loss: 58.02461, category_loss: 0.00000, cheat_loss: 17.73412, const_loss: 0.28538, l1_loss: 40.00512, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1043.6467, d_loss: 11.52085, g_loss: 39.63559, category_loss: 0.00000, cheat_loss: 0.33919, const_loss: 0.25615, l1_loss: 39.04025, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1888.5316, d_loss: 15.39455, g_loss: 64.40628, category_loss: 0.00000, cheat_loss: 24.23842, const_loss: 0.29293, l1_loss: 39.87493, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2742.1507, d_loss: 17.30823, g_loss: 42.54147, category_loss: 0.00000, cheat_loss: 0.07120, const_loss: 0.26849, l1_loss: 42.20178, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3601.2134, d_loss: 13.94094, g_loss: 50.50779, category_loss: 0.00000, cheat_loss: 11.01037, const_loss: 0.12098, l1_loss: 39.37643, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4459.5662, d_loss: 14.13855, g_loss: 41.54645, category_loss: 0.00000, cheat_loss: 0.66027, const_loss: 0.30524, l1_loss: 40.58094, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5328.9897, d_loss: 11.95129, g_loss: 65.97129, category_loss: 0.00000, cheat_loss: 24.71986, const_loss: 0.17492, l1_loss: 41.07650, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6187.4640, d_loss: 12.75915, g_loss: 41.52111, category_loss: 0.00000, cheat_loss: 0.13914, const_loss: 0.33970, l1_loss: 41.04227, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7059.9242, d_loss: 15.98404, g_loss: 57.28323, category_loss: 0.00000, cheat_loss: 18.75631, const_loss: 0.33308, l1_loss: 38.19383, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7926.9836, d_loss: 12.97901, g_loss: 43.80532, category_loss: 0.00000, cheat_loss: 1.89761, const_loss: 0.95045, l1_loss: 40.95726, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8790.8269, d_loss: 14.64135, g_loss: 44.14220, category_loss: 0.00000, cheat_loss: 3.85206, const_loss: 0.68354, l1_loss: 39.60659, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9651.1497, d_loss: 14.18239, g_loss: 59.44554, category_loss: 0.00000, cheat_loss: 17.32883, const_loss: 0.31841, l1_loss: 41.79830, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10510.1141, d_loss: 26.42657, g_loss: 47.51288, category_loss: 0.00000, cheat_loss: 1.82547, const_loss: 0.53511, l1_loss: 45.15230, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11368.4717, d_loss: 20.95421, g_loss: 54.82761, category_loss: 0.00000, cheat_loss: 11.80626, const_loss: 0.44306, l1_loss: 42.57830, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12244.1787, d_loss: 16.89333, g_loss: 43.04575, category_loss: 0.00000, cheat_loss: 1.32280, const_loss: 0.28360, l1_loss: 41.43936, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13091.1372, d_loss: 12.79290, g_loss: 53.16134, category_loss: 0.00000, cheat_loss: 13.31369, const_loss: 0.24608, l1_loss: 39.60156, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13944.8684, d_loss: 11.19063, g_loss: 40.00607, category_loss: 0.00000, cheat_loss: 0.77543, const_loss: 0.16629, l1_loss: 39.06435, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14820.7551, d_loss: 11.68769, g_loss: 69.12515, category_loss: 0.00000, cheat_loss: 31.56572, const_loss: 0.28491, l1_loss: 37.27452, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15705.8838, d_loss: 18.51872, g_loss: 40.55953, category_loss: 0.00000, cheat_loss: 2.07884, const_loss: 0.26026, l1_loss: 38.22043, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16471.6286, d_loss: 9.14471, g_loss: 52.39514, category_loss: 0.00000, cheat_loss: 16.35606, const_loss: 0.17853, l1_loss: 35.86055, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+
+Epoch: [ 0], [   0/  20] time: 197.8463, d_loss: 11.77989, g_loss: 40.25695, category_loss: 0.00000, cheat_loss: 2.70198, const_loss: 0.33657, l1_loss: 37.21840, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1063.9406, d_loss: 15.81805, g_loss: 48.42119, category_loss: 0.00000, cheat_loss: 8.41131, const_loss: 0.17796, l1_loss: 39.83192, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1921.4487, d_loss: 15.45324, g_loss: 44.81313, category_loss: 0.00000, cheat_loss: 3.73874, const_loss: 0.40764, l1_loss: 40.66675, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2793.3909, d_loss: 11.55154, g_loss: 66.80152, category_loss: 0.00000, cheat_loss: 25.40240, const_loss: 0.19113, l1_loss: 41.20799, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3656.4432, d_loss: 21.66582, g_loss: 42.63005, category_loss: 0.00000, cheat_loss: 0.47699, const_loss: 0.19712, l1_loss: 41.95594, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4516.7311, d_loss: 20.16152, g_loss: 52.74878, category_loss: 0.00000, cheat_loss: 12.38969, const_loss: 0.23382, l1_loss: 40.12526, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5354.3848, d_loss: 14.03111, g_loss: 46.39452, category_loss: 0.00000, cheat_loss: 4.03385, const_loss: 0.25209, l1_loss: 42.10857, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6198.8125, d_loss: 14.30944, g_loss: 41.99800, category_loss: 0.00000, cheat_loss: 1.99635, const_loss: 0.19242, l1_loss: 39.80923, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7060.8610, d_loss: 8.94235, g_loss: 61.67992, category_loss: 0.00000, cheat_loss: 23.09330, const_loss: 0.15077, l1_loss: 38.43585, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7917.5592, d_loss: 12.43782, g_loss: 41.22876, category_loss: 0.00000, cheat_loss: 0.35592, const_loss: 0.45848, l1_loss: 40.41436, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8767.2555, d_loss: 13.59723, g_loss: 56.84766, category_loss: 0.00000, cheat_loss: 18.04810, const_loss: 0.34698, l1_loss: 38.45257, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9628.8966, d_loss: 7.42556, g_loss: 44.40443, category_loss: 0.00000, cheat_loss: 5.06533, const_loss: 0.29070, l1_loss: 39.04839, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10481.9411, d_loss: 11.74433, g_loss: 41.60414, category_loss: 0.00000, cheat_loss: 3.26651, const_loss: 0.26369, l1_loss: 38.07394, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11345.3545, d_loss: 18.50201, g_loss: 48.56477, category_loss: 0.00000, cheat_loss: 8.39861, const_loss: 0.11405, l1_loss: 40.05211, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12202.9978, d_loss: 16.22433, g_loss: 41.11195, category_loss: 0.00000, cheat_loss: 0.00300, const_loss: 0.12664, l1_loss: 40.98232, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13049.1646, d_loss: 19.50416, g_loss: 83.22535, category_loss: 0.00000, cheat_loss: 43.83282, const_loss: 0.12262, l1_loss: 39.26991, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13899.5543, d_loss: 22.70176, g_loss: 46.20802, category_loss: 0.00000, cheat_loss: 5.90361, const_loss: 0.13187, l1_loss: 40.17254, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14754.0796, d_loss: 13.01829, g_loss: 52.50506, category_loss: 0.00000, cheat_loss: 12.59248, const_loss: 0.32312, l1_loss: 39.58946, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15601.1777, d_loss: 11.17872, g_loss: 43.27954, category_loss: 0.00000, cheat_loss: 3.81181, const_loss: 0.29252, l1_loss: 39.17522, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16353.5264, d_loss: 8.91425, g_loss: 63.08236, category_loss: 0.00000, cheat_loss: 23.10164, const_loss: 1.52002, l1_loss: 38.46070, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 207.9263, d_loss: 15.47112, g_loss: 39.07683, category_loss: 0.00000, cheat_loss: 0.15124, const_loss: 0.69545, l1_loss: 38.23014, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1071.1277, d_loss: 12.92302, g_loss: 63.65535, category_loss: 0.00000, cheat_loss: 25.80185, const_loss: 0.37316, l1_loss: 37.48033, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1989.5861, d_loss: 15.71829, g_loss: 39.62242, category_loss: 0.00000, cheat_loss: 0.23919, const_loss: 0.31513, l1_loss: 39.06810, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2872.0070, d_loss: 15.12215, g_loss: 46.62577, category_loss: 0.00000, cheat_loss: 7.34406, const_loss: 0.29729, l1_loss: 38.98442, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3757.0503, d_loss: 11.17667, g_loss: 46.40303, category_loss: 0.00000, cheat_loss: 4.97729, const_loss: 0.10891, l1_loss: 41.31683, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4618.9856, d_loss: 17.02101, g_loss: 56.94491, category_loss: 0.00000, cheat_loss: 14.60925, const_loss: 0.10626, l1_loss: 42.22941, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5496.1173, d_loss: 17.76800, g_loss: 43.90200, category_loss: 0.00000, cheat_loss: 0.45119, const_loss: 0.13898, l1_loss: 43.31182, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6371.4883, d_loss: 13.47144, g_loss: 57.29717, category_loss: 0.00000, cheat_loss: 17.01702, const_loss: 0.18460, l1_loss: 40.09555, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7257.7756, d_loss: 12.64799, g_loss: 44.73867, category_loss: 0.00000, cheat_loss: 3.24476, const_loss: 0.19909, l1_loss: 41.29483, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8136.7213, d_loss: 16.80812, g_loss: 54.44045, category_loss: 0.00000, cheat_loss: 13.42470, const_loss: 0.11532, l1_loss: 40.90043, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 9005.5052, d_loss: 14.48821, g_loss: 43.11587, category_loss: 0.00000, cheat_loss: 1.82039, const_loss: 0.19461, l1_loss: 41.10087, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9875.7347, d_loss: 10.06753, g_loss: 76.58060, category_loss: 0.00000, cheat_loss: 35.15534, const_loss: 0.22230, l1_loss: 41.20297, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10763.6006, d_loss: 16.42803, g_loss: 44.54991, category_loss: 0.00000, cheat_loss: 3.16767, const_loss: 0.20699, l1_loss: 41.17525, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11655.0134, d_loss: 11.09902, g_loss: 53.10917, category_loss: 0.00000, cheat_loss: 13.01068, const_loss: 0.24840, l1_loss: 39.85010, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12544.7557, d_loss: 12.38980, g_loss: 48.59856, category_loss: 0.00000, cheat_loss: 6.84403, const_loss: 0.33815, l1_loss: 41.41638, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13439.4309, d_loss: 15.19458, g_loss: 56.20818, category_loss: 0.00000, cheat_loss: 5.81160, const_loss: 0.10459, l1_loss: 50.29198, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14331.4726, d_loss: 30.47577, g_loss: 82.90730, category_loss: 0.00000, cheat_loss: 37.11564, const_loss: 0.12821, l1_loss: 45.66346, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15221.3051, d_loss: 39.73225, g_loss: 42.39160, category_loss: 0.00000, cheat_loss: 0.02781, const_loss: 0.63406, l1_loss: 41.72972, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 16109.7022, d_loss: 20.70486, g_loss: 53.13345, category_loss: 0.00000, cheat_loss: 13.47016, const_loss: 0.18626, l1_loss: 39.47703, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16877.8391, d_loss: 9.15533, g_loss: 42.74913, category_loss: 0.00000, cheat_loss: 3.25464, const_loss: 0.27018, l1_loss: 39.22431, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 209.3461, d_loss: 8.78339, g_loss: 55.41916, category_loss: 0.00000, cheat_loss: 15.22857, const_loss: 0.10194, l1_loss: 40.08865, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1080.5232, d_loss: 12.16431, g_loss: 41.50777, category_loss: 0.00000, cheat_loss: 0.00036, const_loss: 0.17097, l1_loss: 41.33644, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1956.1736, d_loss: 18.52952, g_loss: 71.62380, category_loss: 0.00000, cheat_loss: 30.71293, const_loss: 0.22776, l1_loss: 40.68312, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2835.6448, d_loss: 21.44149, g_loss: 41.80042, category_loss: 0.00000, cheat_loss: 1.03655, const_loss: 0.16048, l1_loss: 40.60339, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3713.9841, d_loss: 15.20261, g_loss: 57.13007, category_loss: 0.00000, cheat_loss: 18.31899, const_loss: 0.15170, l1_loss: 38.65938, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4574.9721, d_loss: 16.43804, g_loss: 39.24078, category_loss: 0.00000, cheat_loss: 0.19544, const_loss: 0.15387, l1_loss: 38.89147, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5464.4292, d_loss: 12.52995, g_loss: 64.67664, category_loss: 0.00000, cheat_loss: 25.99464, const_loss: 0.29423, l1_loss: 38.38778, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6343.0082, d_loss: 19.43315, g_loss: 38.75838, category_loss: 0.00000, cheat_loss: 0.13958, const_loss: 0.16744, l1_loss: 38.45136, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 7224.9597, d_loss: 11.11854, g_loss: 59.38201, category_loss: 0.00000, cheat_loss: 22.01797, const_loss: 0.17820, l1_loss: 37.18584, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 8107.7899, d_loss: 10.60110, g_loss: 39.69799, category_loss: 0.00000, cheat_loss: 0.49626, const_loss: 0.28103, l1_loss: 38.92070, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8980.9785, d_loss: 8.80961, g_loss: 55.66179, category_loss: 0.00000, cheat_loss: 16.28400, const_loss: 0.13217, l1_loss: 39.24562, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9869.0503, d_loss: 13.96689, g_loss: 44.40341, category_loss: 0.00000, cheat_loss: 0.89406, const_loss: 0.26440, l1_loss: 43.24496, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10745.8700, d_loss: 18.39693, g_loss: 47.07379, category_loss: 0.00000, cheat_loss: 5.52650, const_loss: 0.16790, l1_loss: 41.37939, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11623.5798, d_loss: 14.21581, g_loss: 51.21639, category_loss: 0.00000, cheat_loss: 8.77230, const_loss: 0.12449, l1_loss: 42.31961, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12505.4725, d_loss: 12.52870, g_loss: 41.34055, category_loss: 0.00000, cheat_loss: 0.05635, const_loss: 0.15185, l1_loss: 41.13235, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13388.8230, d_loss: 15.59351, g_loss: 63.21362, category_loss: 0.00000, cheat_loss: 23.24016, const_loss: 0.30993, l1_loss: 39.66354, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 14242.4397, d_loss: 11.25554, g_loss: 41.06573, category_loss: 0.00000, cheat_loss: 0.38933, const_loss: 0.25053, l1_loss: 40.42588, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 15119.4783, d_loss: 13.57947, g_loss: 50.64720, category_loss: 0.00000, cheat_loss: 11.51756, const_loss: 0.13451, l1_loss: 38.99513, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 16010.6453, d_loss: 14.37962, g_loss: 41.90966, category_loss: 0.00000, cheat_loss: 1.31416, const_loss: 0.26844, l1_loss: 40.32706, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16785.4832, d_loss: 12.71533, g_loss: 47.07858, category_loss: 0.00000, cheat_loss: 9.06513, const_loss: 0.09169, l1_loss: 37.92176, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 204.1425, d_loss: 14.84113, g_loss: 43.99038, category_loss: 0.00000, cheat_loss: 4.32607, const_loss: 0.29828, l1_loss: 39.36603, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1071.9415, d_loss: 11.75157, g_loss: 43.83556, category_loss: 0.00000, cheat_loss: 5.02502, const_loss: 0.33687, l1_loss: 38.47367, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1906.9448, d_loss: 8.83140, g_loss: 43.64687, category_loss: 0.00000, cheat_loss: 3.48673, const_loss: 0.26087, l1_loss: 39.89927, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2753.7308, d_loss: 10.89608, g_loss: 54.00899, category_loss: 0.00000, cheat_loss: 12.74136, const_loss: 0.12451, l1_loss: 41.14312, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3610.4987, d_loss: 14.69737, g_loss: 39.25570, category_loss: 0.00000, cheat_loss: 0.00014, const_loss: 0.18384, l1_loss: 39.07170, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4469.2534, d_loss: 25.83732, g_loss: 50.67709, category_loss: 0.00000, cheat_loss: 12.74780, const_loss: 0.10193, l1_loss: 37.82735, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5314.2122, d_loss: 9.39947, g_loss: 46.47890, category_loss: 0.00000, cheat_loss: 6.80329, const_loss: 0.18148, l1_loss: 39.49413, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6159.2477, d_loss: 13.81965, g_loss: 41.62262, category_loss: 0.00000, cheat_loss: 0.80608, const_loss: 0.13778, l1_loss: 40.67876, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6998.8951, d_loss: 14.13126, g_loss: 69.90509, category_loss: 0.00000, cheat_loss: 29.25082, const_loss: 0.19777, l1_loss: 40.45650, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7844.9599, d_loss: 26.12766, g_loss: 40.65795, category_loss: 0.00000, cheat_loss: 0.25220, const_loss: 0.20946, l1_loss: 40.19628, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8681.0464, d_loss: 20.86840, g_loss: 47.85828, category_loss: 0.00000, cheat_loss: 9.53976, const_loss: 0.19247, l1_loss: 38.12605, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9517.1691, d_loss: 16.18342, g_loss: 40.11572, category_loss: 0.00000, cheat_loss: 0.90907, const_loss: 0.10656, l1_loss: 39.10009, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10344.7181, d_loss: 10.17550, g_loss: 47.83857, category_loss: 0.00000, cheat_loss: 9.41638, const_loss: 0.31905, l1_loss: 38.10314, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11190.4684, d_loss: 5.87554, g_loss: 42.18742, category_loss: 0.00000, cheat_loss: 3.98314, const_loss: 0.13489, l1_loss: 38.06940, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12025.9562, d_loss: 8.40185, g_loss: 50.19094, category_loss: 0.00000, cheat_loss: 10.35340, const_loss: 0.16577, l1_loss: 39.67177, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 12889.7785, d_loss: 12.26190, g_loss: 39.75982, category_loss: 0.00000, cheat_loss: 0.00002, const_loss: 0.98151, l1_loss: 38.77829, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13733.1074, d_loss: 21.75076, g_loss: 72.42274, category_loss: 0.00000, cheat_loss: 32.94522, const_loss: 0.18177, l1_loss: 39.29575, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14585.6507, d_loss: 25.63649, g_loss: 41.94590, category_loss: 0.00000, cheat_loss: 0.94448, const_loss: 0.18545, l1_loss: 40.81597, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15429.4943, d_loss: 9.00534, g_loss: 57.44700, category_loss: 0.00000, cheat_loss: 16.95951, const_loss: 0.10114, l1_loss: 40.38634, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16170.6075, d_loss: 9.48875, g_loss: 41.42949, category_loss: 0.00000, cheat_loss: 0.26215, const_loss: 0.09635, l1_loss: 41.07100, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20
+Epoch: [ 0], [   0/  20] time: 207.7821, d_loss: 8.80518, g_loss: 68.05250, category_loss: 0.00000, cheat_loss: 29.77166, const_loss: 0.23922, l1_loss: 38.04161, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   1/  20] time: 1051.0198, d_loss: 23.32814, g_loss: 40.25372, category_loss: 0.00000, cheat_loss: 0.81505, const_loss: 0.23009, l1_loss: 39.20858, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   2/  20] time: 1890.4124, d_loss: 13.40008, g_loss: 42.16526, category_loss: 0.00000, cheat_loss: 3.20803, const_loss: 0.27807, l1_loss: 38.67916, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   3/  20] time: 2740.9208, d_loss: 13.13835, g_loss: 55.02893, category_loss: 0.00000, cheat_loss: 15.29485, const_loss: 0.35049, l1_loss: 39.38359, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   4/  20] time: 3595.2611, d_loss: 19.70421, g_loss: 40.34750, category_loss: 0.00000, cheat_loss: 0.33468, const_loss: 0.25840, l1_loss: 39.75443, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   5/  20] time: 4443.6099, d_loss: 13.04202, g_loss: 54.22801, category_loss: 0.00000, cheat_loss: 16.66835, const_loss: 0.13790, l1_loss: 37.42176, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   6/  20] time: 5288.9633, d_loss: 13.10078, g_loss: 39.47890, category_loss: 0.00000, cheat_loss: 1.60850, const_loss: 0.21135, l1_loss: 37.65905, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   7/  20] time: 6138.1842, d_loss: 10.13775, g_loss: 51.77003, category_loss: 0.00000, cheat_loss: 13.42985, const_loss: 0.27964, l1_loss: 38.06053, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   8/  20] time: 6978.2649, d_loss: 13.42171, g_loss: 38.74729, category_loss: 0.00000, cheat_loss: 0.09017, const_loss: 0.25592, l1_loss: 38.40120, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [   9/  20] time: 7822.2071, d_loss: 11.23030, g_loss: 53.67348, category_loss: 0.00000, cheat_loss: 14.08768, const_loss: 0.28780, l1_loss: 39.29800, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  10/  20] time: 8654.3875, d_loss: 12.70779, g_loss: 39.37582, category_loss: 0.00000, cheat_loss: 0.01785, const_loss: 0.20503, l1_loss: 39.15294, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  11/  20] time: 9538.0523, d_loss: 14.74721, g_loss: 62.05216, category_loss: 0.00000, cheat_loss: 21.59531, const_loss: 0.13728, l1_loss: 40.31957, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  12/  20] time: 10385.3822, d_loss: 19.41325, g_loss: 40.50803, category_loss: 0.00000, cheat_loss: 0.10472, const_loss: 0.10631, l1_loss: 40.29700, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  13/  20] time: 11248.6652, d_loss: 12.71502, g_loss: 49.55178, category_loss: 0.00000, cheat_loss: 10.57326, const_loss: 0.21346, l1_loss: 38.76506, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  14/  20] time: 12132.1692, d_loss: 12.65723, g_loss: 40.92327, category_loss: 0.00000, cheat_loss: 1.31927, const_loss: 0.23134, l1_loss: 39.37266, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  15/  20] time: 13007.4590, d_loss: 8.44183, g_loss: 42.84470, category_loss: 0.00000, cheat_loss: 3.49803, const_loss: 0.12132, l1_loss: 39.22535, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  16/  20] time: 13866.6125, d_loss: 8.20568, g_loss: 43.75729, category_loss: 0.00000, cheat_loss: 3.37311, const_loss: 0.35764, l1_loss: 40.02654, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  17/  20] time: 14746.6770, d_loss: 9.98556, g_loss: 43.89023, category_loss: 0.00000, cheat_loss: 3.21951, const_loss: 0.11131, l1_loss: 40.55941, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  18/  20] time: 15616.0052, d_loss: 7.03038, g_loss: 40.27239, category_loss: 0.00000, cheat_loss: 0.97297, const_loss: 0.05878, l1_loss: 39.24064, tv_loss: 0.00000
+Validating model..
+Epoch: [ 0], [  19/  20] time: 16389.6549, d_loss: 8.47980, g_loss: 64.26979, category_loss: 0.00000, cheat_loss: 22.88628, const_loss: 2.81377, l1_loss: 38.56974, tv_loss: 0.00000
+Validating model..
+Checkpoint: last checkpoint step 20

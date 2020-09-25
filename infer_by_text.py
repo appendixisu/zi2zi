@@ -25,28 +25,34 @@ parser.add_argument('--experiment_id', dest='experiment_id', type=int, default=0
 parser.add_argument('--model_dir', dest='model_dir', default="experiments/checkpoint/experiment_0",
                     help='directory that saves the model checkpoints')
 parser.add_argument('--batch_size', dest='batch_size', type=int, default=16, help='number of examples in batch')
-parser.add_argument('--text', type=str, default="人生是条马尔可夫链", help='the source images for inference')
+parser.add_argument('--text', type=str, default="人工智慧學校", help='the source images for inference')
 parser.add_argument('--embedding_id', type=int, default=67, help='embeddings involved')
+parser.add_argument('--embedding_num', type=int, default=185,
+                    help="number for distinct embeddings")
 parser.add_argument('--embedding_dim', type=int, default=EMBEDDING_DIM, help="dimension for embedding")
 parser.add_argument('--save_dir', default='save_dir', type=str, help='path to save inferred images')
 parser.add_argument('--inst_norm', dest='inst_norm', type=int, default=1,
                     help='use conditional instance normalization in your model')
 parser.add_argument('--char_size', dest='char_size', type=int, default=CHAR_SIZE, help='character size')
-parser.add_argument('--src_font', dest='src_font', default='data/raw_fonts/SimSun.ttf', help='path of the source font')
+parser.add_argument('--src_font', dest='src_font', default='data/raw_fonts/NotoSansCJKtc-Regular.otf', help='path of the source font')
 parser.add_argument('--canvas_size', dest='canvas_size', type=int, default=CANVAS_SIZE, help='canvas size')
 
 args = parser.parse_args()
 
 
 def main(_):
-    config = tf.ConfigProto()
+    config = tf.compat.v1.ConfigProto()
     config.gpu_options.allow_growth = True
 
     src_font = ImageFont.truetype(args.src_font, size=args.char_size)
 
-    with tf.Session(config=config) as sess:
-        model = UNet(batch_size=args.batch_size, input_width=args.canvas_size, output_width=args.canvas_size,
-                     experiment_id=args.experiment_id, embedding_dim=args.embedding_dim)
+    with tf.compat.v1.Session(config=config) as sess:
+        model = UNet(batch_size=args.batch_size, 
+                     input_width=args.canvas_size, 
+                     output_width=args.canvas_size,
+                     experiment_id=args.experiment_id, 
+                     embedding_num=args.embedding_num,
+                     embedding_dim=args.embedding_dim)
         model.register_session(sess)
         model.build_model(is_training=False, inst_norm=args.inst_norm)
         model.load_model(args.model_dir)
@@ -83,4 +89,4 @@ def main(_):
 
 
 if __name__ == '__main__':
-    tf.app.run()
+    tf.compat.v1.app.run()

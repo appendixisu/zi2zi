@@ -444,7 +444,6 @@ class UNet(object):
             source_iter = source_provider.get_random_embedding_iter(self.batch_size, embedding_ids)
 
         self.load_model(model_dir)
-
         count = 0
         batch_buffer = list()
         for labels, source_imgs in source_iter:
@@ -459,6 +458,7 @@ class UNet(object):
                 save_imgs(batch_buffer, count, save_dir)
                 batch_buffer = list()
             count += 1
+            print('count:', count)
         if batch_buffer:
             # last batch
             save_imgs(batch_buffer, count, save_dir)
