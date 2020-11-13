@@ -24,6 +24,8 @@ l1_loss = []
 tv_loss = []
 with open("shlog.log", "r") as f:  # open your log file
     for line in f:  # read it line by line
+        if line.startswith('Sample:'):
+            continue
         array = line.split(',')
         for item in array:
             item = item.replace(" ", "")

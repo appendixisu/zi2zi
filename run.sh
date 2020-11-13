@@ -33,7 +33,8 @@ do
     /usr/local/opt/python@3.7/bin/python3.7 infer_by_text.py --model_dir=experiments/checkpoint/experiment_1 \
                     --batch_size=32 \
                     --embedding_id=136 \
-                    --save_dir=save_dir/
+                    --save_dir=save_dir/ \
+                    --text="第6組"
 
     echo "One More again"
     echo ${i}

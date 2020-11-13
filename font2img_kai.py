@@ -11,10 +11,10 @@ from package import save_train_valid_data
 parser = argparse.ArgumentParser(description='Convert font to images')
 parser.add_argument('--src_font', default="data/raw_fonts/NotoSansCJKtc-Regular.otf", help='path of the source font')
 parser.add_argument('--image_basename_path',
-                    default="kai/liuGongCyuan",
+                    default="li",
                     help='path of the handwritten image (box file should be in the same folders)')
-parser.add_argument('--embedding_id', type=int, default=136, help='embedding id')
-parser.add_argument('--sample_dir', default='data/paired_images_kai', help='directory to save examples')
+parser.add_argument('--embedding_id', type=int, default=130, help='embedding id')
+parser.add_argument('--sample_dir', default='data/paired_images_li', help='directory to save examples')
 parser.add_argument('--resample', type=int, default=1, help='sample with replacement')
 
 # These two are for package.py
